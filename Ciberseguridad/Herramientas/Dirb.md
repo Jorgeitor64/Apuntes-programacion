@@ -16,5 +16,9 @@ dirb <URL_OBJETIVO> <RUTA_DICCIONARIO>
 ### Funcionalidades extra
 #### Guardar resultado en un archivo
 ```bash
-dirb <URL_OBJETIVO> <RUTA_DICCIONARIO>
+dirb <URL_OBJETIVO> -o reporte.txt
+```
+#### Buscar archivos con extensiones específicas
+```bash
+dirb <URL_OBJETIVO> -X .php,.config,.bak,.zip
 ```
