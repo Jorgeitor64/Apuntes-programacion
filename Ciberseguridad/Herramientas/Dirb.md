@@ -13,4 +13,8 @@ dirb <URL_OBJETIVO>
 dirb <URL_OBJETIVO> <RUTA_DICCIONARIO>
 ```
 
-### 
+### Funcionalidades extra
+#### Guardar resultado en un archivo
+```bash
+dirb <URL_OBJETIVO> <RUTA_DICCIONARIO>
+```
