@@ -8,5 +8,9 @@
 ```bash
 dirb <URL_OBJETIVO>
 ```
-###
+### Con diccionario personalizado
+```bash
+dirb <URL_OBJETIVO> <RUTA_DICCIONARIO>
+```
 
+### 
