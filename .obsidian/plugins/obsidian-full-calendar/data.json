@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#2f92e4",
+      "directory": "800 - 📅 AGENDA"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true,
+  "recursiveLocal": false
+}

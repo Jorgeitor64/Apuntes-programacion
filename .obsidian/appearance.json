@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Obsidianite",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extra",
+    "presentaciones",
+    "notation-colour-blocks"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}
