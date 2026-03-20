@@ -1,2 +1,3 @@
 # Dirb
-## Para qué se usa
+## Para qué sirve
+DIRB es una herramienta 
