@@ -13,4 +13,5 @@ Una **dirección IP** es un identificador numérico lógico y jerárquico asigna
         
     - Límite: Aproximadamente $2^{128}$ direcciones (prácticamente infinitas).
 ## Clasificación
-- IP Pública
+- **IP Pública** Visible desde todo Internet. Es asignada por el ISP (Proveedor de Internet).
+- **IP Privada** No son enrutables. Utilizadas dentro de redes locales (LAN) con rangos limitados 172.16.x.x - 172.31.x.x
