@@ -4,9 +4,12 @@ Una **network** es un conjunto de dispositivos interconectados que pueden comuni
 ## Elementos básicos
 - **Nodos/hosts:** dispositivos dentro de la red (ordenadores, servidores, móviles, IoT).
 - **Medio de transmisión:** canal por el que viajan los datos (cable, fibra óptica, Wi-Fi).
-- - **Dispositivos de red:** routers, switches, puntos de acceso.
+- **Dispositivos de red:** routers, switches, puntos de acceso.
 - **Protocolos:** reglas que permiten la comunicación (ej: TCP/IP).
-##
+## Direccionamiento en red
+Para que los dispositivos puedan identificarse y comunicarse correctamente dentro de una red, se utilizan dos tipos de direcciones:
+- Dirección IP
+- Dirección MAC
 ## Tipos de redes
 - **LAN (Local Area Network):** red local (casa, instituto).
 - **WAN (Wide Area Network):** red de gran escala (ej: Internet).
