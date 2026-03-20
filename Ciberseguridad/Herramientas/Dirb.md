@@ -20,5 +20,10 @@ dirb <URL_OBJETIVO> -o reporte.txt
 ```
 #### Buscar archivos con extensiones específicas
 ```bash
-dirb <URL_OBJETIVO> -X .php,.config,.bak,.zip
+dirb <URL_OBJETIVO> -X .php,.config,.bak,.zip,etc
 ```
+#### Ignorar códigos de error
+```bash
+dirb <URL_OBJETIVO> -N 403
+```
+####Escaneo r
