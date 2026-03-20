@@ -5,5 +5,8 @@
 ## Comandos
 ### Comando básico
 Únicamente indicando la URL objetivo
-
+```bash
+dirb <URL_OBJETIVO>
+```
+###
 
