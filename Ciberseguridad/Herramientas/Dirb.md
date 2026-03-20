@@ -26,4 +26,7 @@ dirb <URL_OBJETIVO> -X .php,.config,.bak,.zip,etc
 ```bash
 dirb <URL_OBJETIVO> -N 403
 ```
-####Escaneo r
+#### Escaneo rápido
+```bash
+dirb <URL_OBJETIVO> -r
+```
