@@ -18,7 +18,12 @@ ANÁLISIS SINTÁCTICO
 Elegir **Una pregunta** entre las dos propuestas
 #### Opción 1. Diccionario
 Explicar el significado de dos palabras junto a dos sinónimos y dos antónimos
-EJEMPLOS
+PALABRAS
 #### Opción 2. Análisis morfológico
 Analizar morfológicamente dos palabras
-M
+MORFOLOGÍA
+## Bloque 3: Comentario literario
+### Pregunta 1. (3 Puntos)
+#### Apartado A) (1 Punto)
+Señale el argumento, el tema (o temas) o la estructura del texto
+### Ap
