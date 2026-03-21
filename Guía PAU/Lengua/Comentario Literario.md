@@ -6,3 +6,5 @@
 - Ej. Este fragmento perteneciente a la obra narrativo/dramática de ==Pepito==, *Obra magna*, es una de las obras más importantes de este autor. Enmarcado en la Generación 44, la cual está caracterizada por... En este extracto se cuenta... y ubica en...
 ## Temas y tópicos
 Hablar de manera resumida de los temas tratados para luego ahondar en profundidad en ellos
+## Estructura
+- Ex
