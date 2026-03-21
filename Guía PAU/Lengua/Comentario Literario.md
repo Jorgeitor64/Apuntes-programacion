@@ -10,4 +10,9 @@ Hablar de manera resumida de los temas tratados para luego ahondar en profundida
 - Externa: En que está escrito, prosa o verso, en que partes está dividida la obra y donde se ubica el fragmento, bien sea en actos, capítulos...
 - Interna: Planteamiento, nudo y desenlace (Ideas principales y secundarias), Donde se ubica el tiempo, el espacio y si se hace uso de analepsis (Flashback)
 ## Personajes
-Hablar de los personajes que aparecen, 
+Hablar de los personajes que aparecen, clasificarlos y hablar un poco de ellos
+## Aspectos formales
+- Formas de elocución: narración (tipos de narrador), descripción (de personas – prosopografía, etopeya, retrato-, de objetos, sentimientos, lugares...), diálogo, monólogo (interior, los apartes teatrales...).
+- Tipo de discurso
+- Registro usado
+- Clases de
