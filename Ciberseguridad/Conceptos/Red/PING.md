@@ -5,5 +5,5 @@ El **PING** es una utilidad de diagnóstico de red utilizada para verificar la c
 2. **ICMP Echo Reply:** Si el destino está activo y no hay bloqueos, responde con un paquete de confirmación.
 ## Datos que proporciona
 - **Latencia (RTT - Round Trip Time):** El tiempo que tarda el paquete en ir y volver, medido en milisegundos (ms).
-- **TTL (Time To Live):** Un valor que decrece en cada "salto" (router) que atraviesa. Ayuda a identificar el Sistema Operativo del destino.
-- **Pérdida de paquetes:** Si los paquetes no regresan, indica congestión, fallos en el cableado o bloqueos por firewall.
+- **TTL (Time To Live):** Un valor que decrece en cada "salto" (router) que atraviesa.  Permite estimar la distancia entre el dispositivo y el servidor del destino y ayuda a identificar el Sistema Operativo del destino.
+- **Pérdida de paquetes:** Si los paquetes no regresan, indican fallos en el cableado o bloqueos por firewall para descongestionar la red.
