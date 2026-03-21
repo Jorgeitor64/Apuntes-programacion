@@ -1,1 +1,2 @@
 # Dirección MAC (Media Access Control)
+La **dirección MAC** es un identificador único de 48 bits asignado por el fabricante a una tarjeta de red (Network Interface Controller). Se considera la "huella dactilar" de hardware de un dispositivo, ya que, teóricamente, no hay dos iguales en el mundo.
