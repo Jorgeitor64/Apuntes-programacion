@@ -17,4 +17,5 @@ Hablar de los personajes que aparecen, clasificarlos y hablar un poco de ellos
 - Registro usado
 - Clases de palabras
 - Figuras retóricas y simbolismos
-## relación del texto y contexto
+## Relación del texto y contexto
+Características del movimiento literario al que se inscribe, además de incluir referencias a posibles influencias y cerrar el comentario
