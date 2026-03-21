@@ -1,0 +1,2 @@
+# PING (Packet InterNet Groper)
+El **PING** es una utilidad de diagnóstico de red utilizada para verificar la conectividad entre un host local y un destino remoto (otra computadora, servidor o router). Utiliza el protocolo **ICMP** (Internet Control Message Protocol).
