@@ -3,4 +3,4 @@ Es un sistema de base de datos distribuida cuya función principal es la resoluc
 ## Puerto
 - **Puerto:** 53
 ## Base de Datos de Google
-En esta página web se puede acceder a una base de datos donde se pueden consultar las direcciones IP asociadas a ciertos dominios [**Base de datos**]([IP](https://dns.google/))
+En esta página web se puede acceder a una base de datos donde se pueden consultar las direcciones [IP](IP) asociadas a ciertos dominios [**Base de datos**](https://dns.google/)
