@@ -16,4 +16,9 @@ Analizar sintácticamente una frase
 ANÁLISIS SINTÁCTICO
 ### Pregunta 2. (1.5 Puntos)
 Elegir **Una pregunta** entre las dos propuestas
-#### Opción 
+#### Opción 1. Diccionario
+Explicar el significado de dos palabras junto a dos sinónimos y dos antónimos
+EJEMPLOS
+#### Opción 2. Análisis morfológico
+Analizar morfológicamente dos palabras
+M
