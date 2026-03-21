@@ -7,4 +7,4 @@
 ## Temas y tópicos
 Hablar de manera resumida de los temas tratados para luego ahondar en profundidad en ellos
 ## Estructura
-- Ex
+- Externa: En que partes está dividida la obra y donde se ubica el fragmento, bien sea en actos
