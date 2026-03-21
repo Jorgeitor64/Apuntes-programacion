@@ -7,4 +7,5 @@
 ## Temas y tópicos
 Hablar de manera resumida de los temas tratados para luego ahondar en profundidad en ellos
 ## Estructura
-- Externa: En que partes está dividida la obra y donde se ubica el fragmento, bien sea en actos
+- Externa: En que está escrito, prosa o verso, en que partes está dividida la obra y donde se ubica el fragmento, bien sea en actos, capítulos...
+- Interna: Planteamiento, nudo y desenlace, Donde se ubica el tiempo, el espacio y si se ahce uso de ana
