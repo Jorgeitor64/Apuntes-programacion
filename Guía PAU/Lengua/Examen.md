@@ -26,4 +26,6 @@ MORFOLOGÍA
 ### Pregunta 1. (3 Puntos)
 #### Apartado A) (1 Punto)
 Señale el argumento, el tema (o temas) o la estructura del texto
-### Ap
+#### Apartado B) (2 Puntos)
+Comente las características formales del texto relacionándolas con el estilo del autor y el movimiento literario en el que se inscribe.
+LITERATURA
