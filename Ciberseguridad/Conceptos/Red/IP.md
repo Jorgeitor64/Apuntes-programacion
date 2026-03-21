@@ -18,3 +18,6 @@ Una **dirección IP** es un identificador numérico lógico y jerárquico asigna
 ## Asignación y Persistencia
 - **Estática:** La dirección no cambia. Se usa comúnmente en servidores, firewalls o dispositivos críticos.
 - **Dinámica:** Asignada temporalmente mediante el protocolo [DHCP](DHCP.md). Cambia cada vez que el dispositivo se conecta o expira su "concesión".
+## Obtención en consola
+- En Windows: `ipconfig`
+- En Linux/macOS: `ip link show` o `ifconfig`
