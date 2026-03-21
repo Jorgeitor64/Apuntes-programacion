@@ -11,5 +11,9 @@ GUÍA COMENTARIO
 Reconozca en las siguientes cuatro frases el elemento formal que aparece en las palabras o fragmentos subrayados y justifique su funcionamiento en el texto (máximo 1 punto)
 ELEMENTOS FORMALES
 ## Bloque 2: Cuestiones de Lengua
-### Pregunta 1. Análisis sintáctico
-
+### Pregunta 1. Análisis sintáctico (1.5 Puntos)
+Analizar sintácticamente una frase
+ANÁLISIS SINTÁCTICO
+### Pregunta 2. (1.5 Puntos)
+Elegir **Una pregunta** entre las dos propuestas
+#### Opción 
