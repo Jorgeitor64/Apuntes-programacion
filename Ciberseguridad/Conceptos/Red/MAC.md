@@ -7,3 +7,5 @@ Se representa en formato hexadecimal, dividido es seis grupos de dos dígitos (e
 ## Obtención en consola
 - En Windows: `getmac` o `ipconfig /all`
 - En Linux/macOS: `ip link show` o `ifconfig`
+## Ciberseguridad
+La dirección MAC puede ser enmascarada para engañar a un firewall mediante el método 
