@@ -15,4 +15,4 @@ Para que los dispositivos puedan identificarse y comunicarse correctamente dentr
 - **WAN (Wide Area Network):** red de gran escala (ej: Internet).
 - **MAN (Metropolitan Area Network):** cubre una ciudad.
 ## Navegación por la red
-Para navegar por la red de manera cómoda se usa el sistema DNS
+Para navegar por la red de manera cómoda se usa el sistema [DNS](DNS)
