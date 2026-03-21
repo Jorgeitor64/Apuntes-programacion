@@ -17,4 +17,4 @@ Una **dirección IP** es un identificador numérico lógico y jerárquico asigna
 - **IP Privada** No es enrutable. Utilizadas dentro de redes locales (LAN) con rangos limitados `172.16.x.x - 172.31.x.x`, `192.168.x.x`
 ## Asignación y Persistencia
 - **Estática:** La dirección no cambia. Se usa comúnmente en servidores, firewalls o dispositivos críticos.
-- **Dinámica:** Asignada temporalmente mediante el protocolo [DHCP](DHCP). Cambia cada vez que el dispositivo se conecta o expira su "concesión".
+- **Dinámica:** Asignada temporalmente mediante el protocolo [DHCP](DHCP.md). Cambia cada vez que el dispositivo se conecta o expira su "concesión".

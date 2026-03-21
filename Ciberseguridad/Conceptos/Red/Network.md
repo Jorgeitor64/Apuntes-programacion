@@ -8,11 +8,11 @@ Una **network** es un conjunto de dispositivos interconectados que pueden comuni
 - **Protocolos:** reglas que permiten la comunicación (ej: TCP/IP).
 ## Direccionamiento en red
 Para que los dispositivos puedan identificarse y comunicarse correctamente dentro de una red, se utilizan dos tipos de direcciones:
-- [Dirección IP](IP)
+- [Dirección IP](IP.md)
 - Dirección MAC
 ## Tipos de redes
 - **LAN (Local Area Network):** red local (casa, instituto).
 - **WAN (Wide Area Network):** red de gran escala (ej: Internet).
 - **MAN (Metropolitan Area Network):** cubre una ciudad.
 ## Navegación por la red
-Para navegar por la red de manera cómoda se usa el sistema [DNS](DNS)
+Para navegar por la red de manera cómoda se usa el sistema [DNS](DNS.md)
