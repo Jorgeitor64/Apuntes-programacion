@@ -14,3 +14,5 @@ Para que los dispositivos puedan identificarse y comunicarse correctamente dentr
 - **LAN (Local Area Network):** red local (casa, instituto).
 - **WAN (Wide Area Network):** red de gran escala (ej: Internet).
 - **MAN (Metropolitan Area Network):** cubre una ciudad.
+## Navegación por la red
+Para navegar por la red se suele usar
