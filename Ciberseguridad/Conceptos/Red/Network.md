@@ -16,4 +16,4 @@ Para que los dispositivos puedan identificarse y comunicarse correctamente dentr
 - **MAN (Metropolitan Area Network):** cubre una ciudad.
 ## Otros datos
 - Para navegar por la red de manera cómoda se usa el sistema [DNS](DNS.md)
-- Para verificar la conectividad se usa el pro
+- Para verificar la conectividad se usa el protocolo [PING](PING)
