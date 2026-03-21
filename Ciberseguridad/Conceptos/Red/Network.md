@@ -9,7 +9,7 @@ Una **network** es un conjunto de dispositivos interconectados que pueden comuni
 ## Direccionamiento en red
 Para que los dispositivos puedan identificarse y comunicarse correctamente dentro de una red, se utilizan dos tipos de direcciones:
 - [Dirección IP](IP.md)
-- Dirección MAC
+- [Dirección MAC](MAC.md)
 ## Tipos de redes
 - **LAN (Local Area Network):** red local (casa, instituto).
 - **WAN (Wide Area Network):** red de gran escala (ej: Internet).

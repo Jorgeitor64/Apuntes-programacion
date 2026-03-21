@@ -20,4 +20,4 @@ Una **dirección IP** es un identificador numérico lógico y jerárquico asigna
 - **Dinámica:** Asignada temporalmente mediante el protocolo [DHCP](DHCP.md). Cambia cada vez que el dispositivo se conecta o expira su "concesión".
 ## Obtención en consola
 - En Windows: `ipconfig`
-- En Linux/macOS: `ip link show` o `ifconfig`
+- En Linux/macOS: `ifconfig`
