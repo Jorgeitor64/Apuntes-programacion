@@ -8,4 +8,6 @@
 Hablar de manera resumida de los temas tratados para luego ahondar en profundidad en ellos
 ## Estructura
 - Externa: En que está escrito, prosa o verso, en que partes está dividida la obra y donde se ubica el fragmento, bien sea en actos, capítulos...
-- Interna: Planteamiento, nudo y desenlace, Donde se ubica el tiempo, el espacio y si se ahce uso de ana
+- Interna: Planteamiento, nudo y desenlace (Ideas principales y secundarias), Donde se ubica el tiempo, el espacio y si se hace uso de analepsis (Flashback)
+## Personajes
+Hablar de los personajes que aparecen, 
