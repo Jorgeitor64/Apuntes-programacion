@@ -7,7 +7,7 @@ Este extracto en específico versa sobre el contraste entre lo rural urbano, exp
 
 ## Estructura
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
-Pertenece a uno de los recuerdos de Daniel, siendo que la obra se compone de un flujo de memorias del protagonista el día de antes de partir a la ciudad, para ello se hace uso de la analepsis.
+Pertenece a uno de los recuerdos de Daniel, siendo que la obra tiene una estructura circular y se compone de un flujo de memorias del protagonista el día de antes de partir a la ciudad, viajando entre pasado y presente haciendo uso de la analepsis.
 ## Personajes
 En el fragmento aparece Daniel, apodado como "el mochuelo", se le llama así, pues, desde pequeño, observaba todo con mucha atención de manera insaciable. Simbolizándose en este personaje la sensibilidad y curiosidad de un niño que intenta asimilar la complejidad de su mundo rural antes de tener que dejarlo. También aparece Roque, quién es apodado como "El moñigo", aludiendo al excremento del ganado, representa la fuerza bruta y la lealtad arraigada a la tierra, este apodo refleja su mala fama en el pueblo debido a la rudeza de su carácter. También participa Germán, apodado como "el tiñoso", este nombre proviene de la tiña, una infección de hongos que causaba que su cabeza estuviera llena de calvas. Simboliza su fragilidad física, su muerte es el detonante que rompe la infancia de Daniel y lo enfrenta a la conciencia de la muerte.
 ## Aspectos formales
