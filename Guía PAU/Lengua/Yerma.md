@@ -11,4 +11,4 @@ Está enmarcado en el acto 3, cuadro 3, pues ocurre en el bosque y, ya que trata
 ## Personajes
 En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual está frustrada por el hecho de no poder ser madre, representando la lucha entre el deseo personal y las expectativas sociales. Evoluciona a lo largo de la obra de ser un personaje con esperanzas de alcanzar la maternidad a volverse una figura trágica que acaba asesinando a su propio marido. Se observa la antítesis que representa con respecto la amiga con quien habla, María, la cual simboliza el cumplimiento de las expectativas sociales al haber sido capaz de engendrar un hijo.
 ## Aspectos formales
-Como parte de la Generación del 27, Lorca formó parte de la reno
+Como parte de la Generación del 27, Lorca se alejó del teatro más comercial para dar paso a uno mucho más poético. Este se caracteriza por alcanzar una nueva dimensión 
