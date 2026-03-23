@@ -1,6 +1,6 @@
 # El camino
 ## Contextualización
-Este texto es un fragmento de la obra narrativa La familia de Pascual Duarte, de Camilo José Cela. Esta tuvo gran importancia en la renovación de la novela española tras la Guerra Civil, siendo el texto fundacional del tremendismo.
+Este texto es un fragmento de la obra narrativa El camino, de Miguel Delibes. Esta ofrece un retrato de la vida rural cargado española a través de la mirada inocente de Daniel.
 
 ## Temas y Tópicos
 Este extracto en específico versa sobre la infancia y la familia tóxica y si esta espiral de violencia en la juventud en un ambiente opresivo influenciaron el matricidio que realizó. Habla, por tanto, de un determinismo no solo biológico sino también social y como nuestras experiencias pueden determinar nuestras acciones.
