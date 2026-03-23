@@ -9,7 +9,7 @@ Este extracto en específico versa sobre el contraste entre lo rural urbano, exp
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
 Pertenece a uno de los recuerdos de Daniel, siendo que la obra se compone de un flujo de memorias del protagonista el día de antes de partir a la ciudad, para ello se hace uso de la analepsis.
 ## Personajes
-En el fragmento aparece Daniel, apodado como "el mochuelo", se le llama así, pues, desde pequeño, observab todo con mucha atención, 
+En el fragmento aparece Daniel, apodado como "el mochuelo", se le llama así, pues, desde pequeño, observaba todo con mucha atención de manera insaciable. Simbolizándose en este personaje la sensibilidad y curiosidad de un niño que intenta asimilar la complejidad de su mundo rural antes de tener que dejarlo. 
 ## Aspectos formales
 Esta obra se considera la fundadora del tremendismo, estando caracterizada por la crudeza y la brutalidad con la que describe la realidad para criticar la sociedad de la época con una intención moralizadora. Ambientando la historia en lugares miserables, mostrando la peor faceta del ser humano con un protagonista antiheroico, Pascual Duarte, el cual narra su vida llena de tragedia y violencia para intentar justificar sus actos.
 Al igual que en el Quijote, Cela hace uso del multiperspectivismo, teniendo en la obra distintos narradores. Para ello emplea la técnica del manuscrito encontrado, la obra son unas cartas que Pascual Duarte escribió desde la cárcel para Joaquín Sabina, el cual es el que acaba publicándolas. También está el transcriptor, el cual hace de mediador y muestra a Pascual como ejemplo de mala conducta.
