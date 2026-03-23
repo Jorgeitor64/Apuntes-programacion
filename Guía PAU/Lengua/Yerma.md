@@ -13,5 +13,5 @@ En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual
 ## Aspectos formales
 Como parte de la Generación del 27, Lorca se alejó del teatro más comercial para dar paso a uno mucho más poético. Este se caracteriza por alcanzar una nueva dimensión lírica, combinando prosa y verso para transcender el realismo y alcanzar una nueva dimensión estética que expresa las ideas mediante imágenes y símbolos.
 Esta obra es una síntesis de tradición y vanguardia, hace uso de la ambientación rural y temas como la honra, pero las combina con elementos de la tragedia clásica griega como el destino inevitable o el sacrificio final.
-Posee una enorme cantidad de elementos líricos, con los diálogos cargados de metáforas y simbolismos, como el uso de repeticiones en este fragmento que aportan ritmo y musicalidad.
+Posee una enorme cantidad de elementos líricos y un registro poético, con los diálogos cargados de metáforas y simbolismos, como el uso de repeticiones en este fragmento que aportan ritmo y musicalidad.
 
