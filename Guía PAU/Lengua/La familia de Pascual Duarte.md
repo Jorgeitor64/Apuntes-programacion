@@ -7,7 +7,7 @@ Este extracto en específico versa sobre la infancia y la familia tóxica y si e
 
 ## Estructura
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
-Pertenece a las cartas de Pascual, con las cuales intentaba el protagonista justificar sus actos. Narra en específico episodios de su infancia pues ocurre en el bosque y, ya que trata como se ve la luna se sabe que es de noche. Se trata, por tanto, de un espacio externo, en el cual Yerma no debería encontrarse, pues corresponde a los hombres, siendo la crítica a la hipocresía de esta división de espacios uno de los temas más importantes de la obra.
+Pertenece a las cartas de Pascual, con las cuales intentaba el protagonista justificar sus actos. Narra en específico episodios de su infancia,
 ## Personajes
 En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual está frustrada por el hecho de no poder ser madre, representando la lucha entre el deseo personal y las expectativas sociales. Evoluciona a lo largo de la obra de ser un personaje con esperanzas de alcanzar la maternidad a volverse una figura trágica que acaba asesinando a su propio marido. Se observa la antítesis que representa con respecto la amiga con quien habla, María, la cual simboliza el cumplimiento de las expectativas sociales al haber sido capaz de engendrar un hijo.
 ## Aspectos formales
