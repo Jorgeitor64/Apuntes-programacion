@@ -13,6 +13,6 @@ En el fragmento interactúan dos personajes, por una parte, está Pascual, el cu
 ## Aspectos formales
 Esta obra se considera la fundadora del tremendismo, estando caracterizada por la crudeza y la brutalidad con la que describe la realidad para criticar la sociedad de la época con una intención moralizadora. Ambientando la historia en lugares miserables, mostrando la peor faceta del ser humano con un protagonista antiheroico, Pascual Duarte, el cual narra su vida llena de tragedia y violencia para intentar justificar sus actos.
 Al igual que en el Quijote, Cela hace uso del multiperspectivismo, teniendo en la obra distintos narradores. Para ello emplea la técnica del manuscrito encontrado, la obra son unas cartas que Pascual Duarte escribió desde la cárcel para Joaquín Sabina, el cual es el que acaba publicándolas. También está el transcriptor, el cual hace de mediador y muestra a Pascual como ejemplo de mala conducta.
-La obra se compone de di
+La obra se compone de diálogos breves y ágiles, con un estilo directo y un lenguaje crudo y vulgar que usa par describir con mucho detalle la violencia y la crueldad.
 ## Conclusión
 Yerma es una obra profundamente lírica y teatral, en la que se combinan lo simbólico con lo terrenal y lo universal con lo íntimo. La obra no solo renueva la estética teatral, sino que plantea cuestiones intrínsecamente humanas. **Esto sitúa a Lorca como uno de los máximos exponentes del teatro moderno español**
