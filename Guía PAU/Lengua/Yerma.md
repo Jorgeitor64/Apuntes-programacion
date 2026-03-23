@@ -6,5 +6,7 @@ Este texto es un fragmento de la obra dramática Yerma, de Federico García Lorc
 Este extracto en específico versa sobre el rol que tenía la mujer en la sociedad, quedando relegadas a quedarse en la casa, pues el honor de su marido depende de que ella se comporte como lo espera la sociedad, mientras su marido puede ser parte de la vida social. Este encierro se agrava por el hecho de que Yerma no puede tener hijos, esto impide que pueda cumplir el rol que el pueblo espera que cumpla.
 
 ## Estructura
-Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra la conversación que mantiene con María en la romería... En la segunda que ocupa las 24 últimas líneas Yerma se da cuenta de...
-Está enmarcado en el acto 3, cuadro 3 pues ocurre en el bosque y ya que trata como se ve la luna se sabe que es de noche
+Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra la conversación que mantiene con María en la romería por la noche... En la segunda que ocupa las 24 últimas líneas Yerma se da cuenta de...
+Está enmarcado en el acto 3, cuadro 3 pues ocurre en el bosque y ya que trata como se ve la luna se sabe que es de noche.
+## Personajes
+EN el fragmento interactúan dos personajes, por una parte esta Y
