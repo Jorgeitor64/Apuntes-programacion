@@ -11,8 +11,6 @@ Pertenece a las cartas de Pascual, con las cuales intentaba el protagonista just
 ## Personajes
 En el fragmento interactúan dos personajes, por una parte, está Pascual, el cual está frustrada por el hecho de...
 ## Aspectos formales
-Como fundador del tremendismo, Cela se alejó del teatro más comercial para dar paso a uno mucho más poético. Este se caracteriza por alcanzar una nueva dimensión lírica, combinando prosa y verso para transcender el realismo y alcanzar una nueva dimensión estética que expresa las ideas mediante imágenes y símbolos.
-Esta obra es una síntesis de tradición y vanguardia, hace uso de la ambientación rural y temas como la honra, pero las combina con elementos de la tragedia clásica griega como el destino inevitable o el sacrificio final.
-Posee una enorme cantidad de elementos líricos y un registro poético, con el uso de repeticiones en este fragmento que aportan ritmo y musicalidad y con diálogos cargados de metáforas y simbolismos. Entre estos simbolismos encontramos a la luna como figura representativa de la fertilidad que Yerma espera alcanzar y al río...
+Esta obra se considera la fundadora del tremendismo, estando caracterizada por la crudeza con la que describe la realidad para criticar la sociedad de la época. 
 ## Conclusión
 Yerma es una obra profundamente lírica y teatral, en la que se combinan lo simbólico con lo terrenal y lo universal con lo íntimo. La obra no solo renueva la estética teatral, sino que plantea cuestiones intrínsecamente humanas. **Esto sitúa a Lorca como uno de los máximos exponentes del teatro moderno español**
