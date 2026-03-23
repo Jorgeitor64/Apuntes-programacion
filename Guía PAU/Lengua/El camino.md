@@ -1,6 +1,6 @@
 # El camino
 ## Contextualización
-Este texto es un fragmento de la obra narrativa El camino, de Miguel Delibes. Esta ofrece un retrato de la vida rural cargado española a través de la mirada inocente de Daniel.
+Este texto es un fragmento de la obra narrativa El camino, de Miguel Delibes. Esta ofrece un retrato de la vida rural española con un relato impregnado en nostalgia a través de la mirada inocente de Daniel. Se situa en el realismo social de la novela de posguerra españ
 
 ## Temas y Tópicos
 Este extracto en específico versa sobre la infancia y la familia tóxica y si esta espiral de violencia en la juventud en un ambiente opresivo influenciaron el matricidio que realizó. Habla, por tanto, de un determinismo no solo biológico sino también social y como nuestras experiencias pueden determinar nuestras acciones.
