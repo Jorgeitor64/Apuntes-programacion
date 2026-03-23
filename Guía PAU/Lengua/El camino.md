@@ -3,7 +3,7 @@
 Este texto es un fragmento de la obra narrativa El camino, de Miguel Delibes. Esta ofrece un retrato de la vida rural española con un relato impregnado en nostalgia a través de la mirada inocente de Daniel. Se sitúa en el realismo social de la novela de posguerra española.
 
 ## Temas y Tópicos
-Este extracto en específico versa sobre la infancia y la familia tóxica y si esta espiral de violencia en la juventud en un ambiente opresivo influenciaron el matricidio que realizó. Habla, por tanto, de un determinismo no solo biológico sino también social y como nuestras experiencias pueden determinar nuestras acciones.
+Este extracto en específico versa sobre el contraste entre lo rural urbano, explorando la dicotomía entre .
 
 ## Estructura
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
