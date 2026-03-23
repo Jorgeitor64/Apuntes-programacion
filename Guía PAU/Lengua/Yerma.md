@@ -7,7 +7,7 @@ Este extracto en específico versa sobre el rol que tenía la mujer en la socied
 
 ## Estructura
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra la conversación que mantiene con María en la romería por la noche... En la segunda que ocupa las 24 últimas líneas Yerma se da cuenta de...
-Está enmarcado en el acto 3, cuadro 3, pues ocurre en el bosque y, ya que trata como se ve la luna se sabe que es de noche.
+Está enmarcado en el acto 3, cuadro 3, pues ocurre en el bosque y, ya que trata como se ve la luna se sabe que es de noche. Estos espacios 
 ## Personajes
 En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual está frustrada por el hecho de no poder ser madre, representando la lucha entre el deseo personal y las expectativas sociales. Evoluciona a lo largo de la obra de ser un personaje con esperanzas de alcanzar la maternidad a volverse una figura trágica que acaba asesinando a su propio marido. Se observa la antítesis que representa con respecto la amiga con quien habla, María, la cual simboliza el cumplimiento de las expectativas sociales al haber sido capaz de engendrar un hijo.
 ## Aspectos formales
