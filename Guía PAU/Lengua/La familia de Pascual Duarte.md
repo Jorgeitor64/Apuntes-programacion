@@ -7,11 +7,11 @@ Este extracto en específico versa sobre la infancia y la familia tóxica y si e
 
 ## Estructura
 Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
-Pertenece a las cartas de Pascual, con las cuales intentaba el protagonista justificar sus actos. Narra en específico episodios de su infancia,
+Pertenece a las cartas de Pascual, con las cuales intentaba el protagonista justificar sus actos. Narra en específico episodios de su infancia, en el ambiente sofocante que era su casa.
 ## Personajes
-En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual está frustrada por el hecho de no poder ser madre, representando la lucha entre el deseo personal y las expectativas sociales. Evoluciona a lo largo de la obra de ser un personaje con esperanzas de alcanzar la maternidad a volverse una figura trágica que acaba asesinando a su propio marido. Se observa la antítesis que representa con respecto la amiga con quien habla, María, la cual simboliza el cumplimiento de las expectativas sociales al haber sido capaz de engendrar un hijo.
+En el fragmento interactúan dos personajes, por una parte, está Pascual, el cual está frustrada por el hecho de...
 ## Aspectos formales
-Como parte de la Generación del 27, Lorca se alejó del teatro más comercial para dar paso a uno mucho más poético. Este se caracteriza por alcanzar una nueva dimensión lírica, combinando prosa y verso para transcender el realismo y alcanzar una nueva dimensión estética que expresa las ideas mediante imágenes y símbolos.
+Como fundador del tremendismo, Cela se alejó del teatro más comercial para dar paso a uno mucho más poético. Este se caracteriza por alcanzar una nueva dimensión lírica, combinando prosa y verso para transcender el realismo y alcanzar una nueva dimensión estética que expresa las ideas mediante imágenes y símbolos.
 Esta obra es una síntesis de tradición y vanguardia, hace uso de la ambientación rural y temas como la honra, pero las combina con elementos de la tragedia clásica griega como el destino inevitable o el sacrificio final.
 Posee una enorme cantidad de elementos líricos y un registro poético, con el uso de repeticiones en este fragmento que aportan ritmo y musicalidad y con diálogos cargados de metáforas y simbolismos. Entre estos simbolismos encontramos a la luna como figura representativa de la fertilidad que Yerma espera alcanzar y al río...
 ## Conclusión
