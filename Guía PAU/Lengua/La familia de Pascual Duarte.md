@@ -3,10 +3,10 @@
 Este texto es un fragmento de la obra narrativa La familia de Pascual Duarte, de Camilo José Cela. Esta tuvo gran importancia en la renovación de la novela española tras la Guerra Civil, siendo el texto fundacional del tremendismo.
 
 ## Temas y Tópicos
-Este extracto en específico versa sobre la infancia y la familia tóxica y si esta espiral de violencia en la juventud en un ambiente opresivo influenciaron el matricidio que realizó. Habla, por tanto, de un determinismo no solo biológico sino también social, 
+Este extracto en específico versa sobre la infancia y la familia tóxica y si esta espiral de violencia en la juventud en un ambiente opresivo influenciaron el matricidio que realizó. Habla, por tanto, de un determinismo no solo biológico sino también social y como nuestras experiencias pueden determinar nuestras acciones.
 
 ## Estructura
-Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra la conversación que mantiene con María en la romería por la noche... En la segunda que ocupa las 24 últimas líneas Yerma se da cuenta de...
+Este escrito puede dividirse en tres partes. En la primera, que ocupa las 12 primeras líneas se narra... En la segunda que ocupa las 24 últimas líneas...
 Está enmarcado en el acto 3, cuadro 3, pues ocurre en el bosque y, ya que trata como se ve la luna se sabe que es de noche. Se trata, por tanto, de un espacio externo, en el cual Yerma no debería encontrarse, pues corresponde a los hombres, siendo la crítica a la hipocresía de esta división de espacios uno de los temas más importantes de la obra.
 ## Personajes
 En el fragmento interactúan dos personajes, por una parte, está Yerma, la cual está frustrada por el hecho de no poder ser madre, representando la lucha entre el deseo personal y las expectativas sociales. Evoluciona a lo largo de la obra de ser un personaje con esperanzas de alcanzar la maternidad a volverse una figura trágica que acaba asesinando a su propio marido. Se observa la antítesis que representa con respecto la amiga con quien habla, María, la cual simboliza el cumplimiento de las expectativas sociales al haber sido capaz de engendrar un hijo.
