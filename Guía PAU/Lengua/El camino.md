@@ -13,6 +13,6 @@ En el fragmento aparece Daniel, apodado como "el mochuelo", se le llama así, pu
 ## Aspectos formales
 Esta obra se enmarca en la novela de posguerra, pero al contrario de sus contemporáneos, Delibes no busca denunciar las injusticias sociales, sino captar la esencia del mundo rural con un enfoque más humanista e introspectivo.
 La obra tiene un narrador omnisciente, estando escrita desde la perspectiva de Daniel, pero sin perder la distancia, enriqueciendo las vivencias del protagonista.
-La novela combina momentos de humor, especialmente en los recuerdos, con otros más reflexivos en el presente. Con un lenguaje sencillo 
+La novela combina momentos de humor, especialmente en los recuerdos, con otros más reflexivos en el presente. Con un lenguaje sencillo y accesible, pero al mismo tiempo poético y cargado de lirismo, describiendo los paisajes de manera detallada apelando a los sentidos y.
 ## Conclusión
 A través de la figura de Pascual, Cela construye un retrato universal de la lucha entre el individuo y su destino, mientras ofrece una crítica implícita a las condiciones sociales y económicas de su tiempo. Su estilo directo y crudo, junto con su capacidad para explorar los rincones más oscuros de la naturaleza humana, convierten a la novela en una obra maestra de la literatura española.
