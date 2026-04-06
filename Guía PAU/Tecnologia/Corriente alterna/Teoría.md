@@ -12,4 +12,4 @@ La fuerza contraelectromotriz es la tensión inducida en el rotor de un motor cu
 # Características de la corriente alterna trifásica
 La corriente trifásica usa tres corrientes alternas diferentes, cada una transportada por tres conductores diferentes (R, S, T), retornando todos por un cable neutro común. Las tres ondas están desfasadas 120º entre sí, siendo la suma de las tres tensiones siempre 0V y garantizando un flujo de energía constante.
 En España la tensión de fase suele ser 230 V y la de línea 400 V y una frecuencia de 50 Hz.
-Tiene diversas ventajas frente a la monofásica como 
+Tiene diversas ventajas frente a la monofásica como mayor potencia eléctrica transmitida con menores pérdidas y cables de menor sección.
