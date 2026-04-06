@@ -10,4 +10,4 @@ Un bajo factor de potencia provoca mayores sobrecalentamientos y perdidas, caíd
 # Fuerza contraelectromotriz
 La fuerza contraelectromotriz es la tensión inducida en el rotor de un motor cuando gira en un campo magnético, con una polaridad opuesta a la tensión aplicada según la Ley de Lenz. Es, por tanto, una fuerza electromotriz inducida. Esta fuerza E' es igual a la potencia entre la intensidad, indicando cuanta energía eléctrica es transformada en energía mecánica.
 # Características de la corriente alterna trifásica
-La corriente trifásica usa tres corrientes alternas diferentes, cada una transportada por 
+La corriente trifásica usa tres corrientes alternas diferentes, cada una transportada por tres conductores diferentes (R, S, T), retornando todos por un cable neutro común. Las tres ondas están desfasadas 120º entre sí, garantizando un flujo de energía constante 
