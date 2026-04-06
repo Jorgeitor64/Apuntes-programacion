@@ -6,4 +6,4 @@ Se utiliza predominantemente en el arranque a tensión reducida para proteger e
 El factor de potencia indica la eficiencia midiendo la relación entre la potencia activa y la aparente, representando cuanta energía se convierte en trabajo.
 Fp = cos φ
 El valor ideal es 1, pues esto indicaría que toda la energía que se suministra se convierte en trabajo útil.
-Un bajo factor de potencia provoca mayores sobrecalentamientos y perdidas, caídas de tensión. Provoca que haya mayor corriente en los cables lo que los obliga a tener mayor sección
+Un bajo factor de potencia provoca mayores sobrecalentamientos y perdidas, caídas de tensión. Provoca que haya mayor corriente en los cables lo que los obliga a tener mayor sección y a tener generadores de mayores dimensiones.
