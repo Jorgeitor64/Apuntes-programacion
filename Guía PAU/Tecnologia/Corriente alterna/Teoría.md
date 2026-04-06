@@ -5,4 +5,5 @@ Se utiliza predominantemente en el arranque a tensión reducida para proteger e
 # Factor de potencia y su efecto en las instalaciones
 El factor de potencia indica la eficiencia midiendo la relación entre la potencia activa y la aparente, representando cuanta energía se convierte en trabajo.
 Fp = cos φ
-
+El valor ideal es 1, pues esto indicaría que toda la energía que se suministra se convierte en trabajo útil.
+Un bajo factor de potenciaprovoca mayores sobrecalentamientos y perdidas
