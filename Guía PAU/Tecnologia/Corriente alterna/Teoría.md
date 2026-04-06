@@ -8,4 +8,4 @@ Fp = cos φ
 El valor ideal es 1, pues esto indicaría que toda la energía que se suministra se convierte en trabajo útil.
 Un bajo factor de potencia provoca mayores sobrecalentamientos y perdidas, caídas de tensión, debido a haber más corriente en los cables, lo que los obliga a tener mayor sección y a tener generadores de mayores dimensiones para suministrar la potencia aparente necesaria para entregar la misma potencia activa.
 # Fuerza contraelectromotriz
-La fuerza contraelectromotriz es la tensión inducida en el rotor de un motor cuando gira en un campo magnético, con una polaridad opuesta a la tensión aplicada según la Ley de Lenz. Es, por tanto, una fuerza electromotriz inducida. Esta fuerza E' es igual a la potencia entre la intensidad
+La fuerza contraelectromotriz es la tensión inducida en el rotor de un motor cuando gira en un campo magnético, con una polaridad opuesta a la tensión aplicada según la Ley de Lenz. Es, por tanto, una fuerza electromotriz inducida. Esta fuerza E' es igual a la potencia entre la intensidad, indicando cuanta energía eléctrica es transformada en energía mecánica.
