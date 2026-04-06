@@ -1,0 +1,1 @@
+# Conexión estrella en un motor trifásico
