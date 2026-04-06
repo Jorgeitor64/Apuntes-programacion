@@ -3,4 +3,6 @@ En una conexión estrella se unen los extremos finales de las tres bobinas (R, S
 La intensidad de línea será igual a la intensidad de fase.
 Se utiliza predominantemente en el arranque a tensión reducida para proteger el motor y la red eléctrica de picos de corriente
 # Factor de potencia y su efecto en las instalaciones
-El factor de potencia indica la eficiencia midiendo la relación entre la potencia activa y la aparente, representando cuanta energía se convierte en 
+El factor de potencia indica la eficiencia midiendo la relación entre la potencia activa y la aparente, representando cuanta energía se convierte en trabajo.
+Fp = cos φ
+
