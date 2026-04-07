@@ -1,6 +1,6 @@
 # Ls
 Se utiliza para listar el contenido de un directorio, proporciona información como sus nombres, permisos o propietarios.
-```
+```bash
 ls
 ------------------------------------------------------------------------
 file1.txt  file2.txt  folder1  folder2
@@ -11,7 +11,7 @@ Image.png Log.txt
 ```
 ## -l
 Se utiliza para obtener información más detallada
-```
+```bash
 total 8
 -rw-r--r-- 1 labex labex 0 Apr 12 12:34 file1.txt
 -rw-r--r-- 1 labex labex 0 Apr 12 12:34 file2.txt
@@ -20,13 +20,13 @@ drwxr-xr-x 2 labex labex 4096 Apr 12 12:34 folder2
 ```
 ## -a
 Muestra archivos ocultos que empiecen por "."
-```
+```bash
 .hidden_file .cache file1.txt  file2.txt  folder1  folder2
 ```
 Usando **-la** se consigue una mezcla de los dos anteriores
 ## Otros comandos útiles
 Usando **-lh** los archivos muestran un tamaño más legible
-```
+```bash
 drwxr-xr-x 2 labex labex 4.0K Apr 12 12:34 folder2
 ```
 Usando **-lr** la lista sale inversa
@@ -34,7 +34,7 @@ Usando **-lr** la lista sale inversa
 Esto se puede combinar reiteradamente para obtener una lista detallada reversa **-lra**
 ## Listar otros directorios
 Para listar el contenido de un directorio concreto se usa **~**
-```
+```bash
 ls ~/project/new_folder
 ```
 Si se quieren agregar sus subdirectorios se combina con **-R**

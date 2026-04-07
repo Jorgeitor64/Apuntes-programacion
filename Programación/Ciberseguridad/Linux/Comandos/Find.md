@@ -1,6 +1,6 @@
 # Find
 Permite buscar archivos y directorios basándonos en los criterios que le pasemos
-```
+```bash
 find [path] [expression]
 ```
 Si no indicamos [path] tomará en el que nos encontremos
@@ -16,8 +16,8 @@ find . -name "*.txt"
 find . -name "file1.txt"
 ```
 - **-type** Buscar todos los archivos de cierto tipo o todos los directorios
-	- **-f** Archivo normal
-	- **-d** 
+	- **f** Archivo normal
+	- **d** Directorio
 ```bash
 find . -type d
 ```

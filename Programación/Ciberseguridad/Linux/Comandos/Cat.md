@@ -1,6 +1,6 @@
 # Cat
 Sirve para mostrar y concatenar archivos de texto
-```
+```bash
 cat nota.txt
 ------------------------------------------------------------------------
 Hola mundo!

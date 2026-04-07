@@ -1,11 +1,11 @@
 Muestra el nombre de usuario de la sesión actual
-```
+```bash
 whoami
 ------------------------------------------------------------------------
 jorgemd64
 ```
 Esto tiene diversas aplicaciones como comprobar si el usuario es el esperado por un script
-```
+```bash
 #!/bin/bash
 echo "El usuario actual es: $(whoami)"
 if [ "$(whoami)" == "jorgemd64" ]; then
