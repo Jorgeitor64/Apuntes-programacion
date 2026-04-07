@@ -25,3 +25,7 @@ find . -type d
 ```bash
 find . -size +1M
 ```
+- **-delete** Elimina los archivos encontrado
+```bash
+find . -type f -name "*.tmp" -delete
+```
