@@ -28,6 +28,6 @@ Con el operador **>** se puede usar para crear un archivo en la ruta en la que l
 ```bash
 echo hey > welcome.txt
 ```
-Con el operador **>>** se añade la información extra en lugar de reemplazarla
+Con el operador **>>** se añade la información extra en lugar de reemplazar la
 #### Información extra
 [Comando Echo](https://labex.io/es/tutorials/linux-linux-echo-command-with-practical-examples-422656)
