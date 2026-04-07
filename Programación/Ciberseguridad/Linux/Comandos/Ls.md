@@ -13,4 +13,9 @@ drwxr-xr-x 2 labex labex 4096 Apr 12 12:34 folder1
 drwxr-xr-x 2 labex labex 4096 Apr 12 12:34 folder2
 ```
 ## -a
-Muestra archivos ocultos que empiecen por .
+Muestra archivos ocultos que empiecen por "."
+```
+.hidden_file .cache file1.txt  file2.txt  folder1  folder2
+```
+Usando **-la** se consigue una mezcla de los dos anteriores
+## Otr
