@@ -18,4 +18,10 @@ Muestra archivos ocultos que empiecen por "."
 .hidden_file .cache file1.txt  file2.txt  folder1  folder2
 ```
 Usando **-la** se consigue una mezcla de los dos anteriores
-## Otr
+## Otros comandos útiles
+Usando **-lh** los archivos muestran un tamaño más legible
+```
+drwxr-xr-x 2 labex labex 4.0K Apr 12 12:34 folder2
+```
+Usando **-lr** la lista sale inversa
+Esto se
