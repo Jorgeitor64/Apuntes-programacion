@@ -13,8 +13,11 @@ find .
 - **-name** Buscar todos los archivos con una extensión determinada o una palabra en común
 ```bash
 find . -name "*.txt"
+find . -name "file1.txt"
 ```
 - **-type** Buscar todos los archivos de cierto tipo o todos los directorios
+	- **-f** Archivo normal
+	- **-d** 
 ```bash
 find . -type d
 ```
