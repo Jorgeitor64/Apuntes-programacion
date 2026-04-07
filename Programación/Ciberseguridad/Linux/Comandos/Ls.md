@@ -27,3 +27,8 @@ Usando **-lr** la lista sale inversa
 
 Esto se puede combinar reiteradamente para obtener una lista detallada reversa **-lra**
 ## Navegar entre directorios
+Para listar el contenido de un directorio concreto se usa **~**
+```
+ls ~/project/new_folder
+```
+Si se quieren agregar sus subdirectorios se combi
