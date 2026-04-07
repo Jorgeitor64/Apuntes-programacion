@@ -24,7 +24,7 @@ Como estás
 Adios
 ```
 ## Crear archivos
-Con el operador **>** se puede usar para crear un archivo en la ruta en la que lo ejecutes
+Con el operador **>** se puede usar para crear un archivo en la ruta en la que lo ejecutes o para reemplazar su información si ya hay uno con el mismo nob
 ```bash
 echo hey > welcome.txt
 ```
