@@ -23,5 +23,10 @@ Hola:    Jorge
 Como estás
 Adios
 ```
+## Crear archivos
+Con el operador **>** se puede usar para crear un archivo en la ruta en la que lo ejecutes
+```bash
+echo hey > welcome.txt
+```
 #### Información extra
 [Comando Echo](https://labex.io/es/tutorials/linux-linux-echo-command-with-practical-examples-422656)
