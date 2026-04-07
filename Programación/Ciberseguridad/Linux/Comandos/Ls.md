@@ -33,4 +33,4 @@ ls ~/project/new_folder
 ```
 Si se quieren agregar sus subdirectorios se combina con **-R**
 #### Información extra
-[Comando Echo](https://labex.io/es/tutorials/linux-linux-echo-command-with-practical-examples-422656)
+[Comando Ls](https://labex.io/es/tutorials/linux-linux-ls-command-with-practical-examples-422776)
