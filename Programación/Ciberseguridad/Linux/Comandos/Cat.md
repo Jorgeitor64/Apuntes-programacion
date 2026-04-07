@@ -6,4 +6,6 @@ cat nota.txt
 Hola mundo!
 ```
 ## Opciones adicionales
-- **-n** Muestra el número de c
+- **-n** Muestra el número de cada línea
+- **-E** Pone un $ al final de cada línea
+- **-S** 
