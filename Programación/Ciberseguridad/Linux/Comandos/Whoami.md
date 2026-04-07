@@ -7,10 +7,12 @@ jorgemd64
 Esto tiene diversas aplicaciones como comprobar si el usuario es el esperado por un script
 ```
 #!/bin/bash
-echo "The current user is: $(whoami)"
-if [ "$(whoami)" == "labex" ]; then
-	echo "You are the labex user."
+echo "El usuario actual es: $(whoami)"
+if [ "$(whoami)" == "jorgemd64" ]; then
+	echo "Eres el usuario deseado, comenzando tarea"
+	#######
 else
-	echo "You are not the labex user."
+	echo "No eres este usuario"
+	exit 1
 fi
 ```
