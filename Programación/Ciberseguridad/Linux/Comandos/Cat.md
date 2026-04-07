@@ -1,7 +1,9 @@
 # Cat
 Sirve para mostrar y concatenar archivos de texto
 ```
-cat "Hola mundo"
+cat nota.txt
 ------------------------------------------------------------------------
-Hola mundo
+Hola mundo!
 ```
+## Opciones adicionales
+- **-n** Muestra el número de c
