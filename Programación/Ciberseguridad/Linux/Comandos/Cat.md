@@ -8,4 +8,4 @@ Hola mundo!
 ## Opciones adicionales
 - **-n** Muestra el número de cada línea
 - **-E** Pone un $ al final de cada línea
-- **-S** 
+- **-s** Combina varias líneas vacías en una sola
