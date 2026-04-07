@@ -5,3 +5,12 @@ file1.txt  file2.txt  folder1  folder2
 ```
 ## -l
 Se utiliza para obtener información más detallada
+```
+total 8
+-rw-r--r-- 1 labex labex 0 Apr 12 12:34 file1.txt
+-rw-r--r-- 1 labex labex 0 Apr 12 12:34 file2.txt
+drwxr-xr-x 2 labex labex 4096 Apr 12 12:34 folder1
+drwxr-xr-x 2 labex labex 4096 Apr 12 12:34 folder2
+```
+## -a
+Muestra archivos ocultos que empiecen por .
