@@ -24,4 +24,6 @@ Usando **-lh** los archivos muestran un tamaño más legible
 drwxr-xr-x 2 labex labex 4.0K Apr 12 12:34 folder2
 ```
 Usando **-lr** la lista sale inversa
-Esto se
+
+Esto se puede combinar reiteradamente para obtener una lista detallada reversa **-lra**
+## Navegar entre directorios
