@@ -31,4 +31,6 @@ Para listar el contenido de un directorio concreto se usa **~**
 ```
 ls ~/project/new_folder
 ```
-Si se quieren agregar sus subdirectorios se combi
+Si se quieren agregar sus subdirectorios se combina con **-R**
+#### Información extra
+[Comando Echo](https://labex.io/es/tutorials/linux-linux-echo-command-with-practical-examples-422656)
