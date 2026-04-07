@@ -29,3 +29,5 @@ find . -size +1M
 ```bash
 find . -type f -name "*.tmp" -delete
 ```
+#### Información extra
+[Comando Find](https://labex.io/es/tutorials/linux-linux-find-command-with-practical-examples-422682)
