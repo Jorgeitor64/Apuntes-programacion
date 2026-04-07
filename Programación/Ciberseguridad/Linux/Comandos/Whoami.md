@@ -16,5 +16,5 @@ else
 	exit 1
 fi
 ```
-#### Información extra
+## Información extra
 [Comando Whoami](https://labex.io/es/tutorials/linux-linux-whoami-command-with-practical-examples-423009)

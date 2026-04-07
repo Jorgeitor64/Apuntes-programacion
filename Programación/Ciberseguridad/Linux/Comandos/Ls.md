@@ -38,5 +38,5 @@ Para listar el contenido de un directorio concreto se usa **~**
 ls ~/project/new_folder
 ```
 Si se quieren agregar sus subdirectorios se combina con **-R**
-#### Información extra
+## Información extra
 [Comando Ls](https://labex.io/es/tutorials/linux-linux-ls-command-with-practical-examples-422776)
