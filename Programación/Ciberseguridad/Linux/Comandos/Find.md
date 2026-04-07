@@ -9,5 +9,9 @@ Si no indicamos [path] tomará en el que nos encontremos
 ```
 find .
 ```
-- Buscar todos los archivos con la extensión .txt
+## Expresiones
+- **-name** Buscar todos los archivos con una extensión determinada o una palabra en común
+```
 find . -name "*.txt"
+```
+- **-type** 
