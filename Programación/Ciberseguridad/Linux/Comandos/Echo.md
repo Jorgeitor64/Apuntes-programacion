@@ -13,7 +13,7 @@ echo "Hola, $name"
 ------------------------------------------------------------------------
 Hola, Jorge
 ```
-## Múltiples líneas
+## Opciones estilo
 Para imprimir múltiples líneas en una sola línea se usa \n
 ```
 echo "Hola, Jorge\nComo estás\nAdios"
@@ -22,3 +22,4 @@ Hola, Jorge
 Como estás
 Adios
 ```
+Para tabular una línea se usa \t 
