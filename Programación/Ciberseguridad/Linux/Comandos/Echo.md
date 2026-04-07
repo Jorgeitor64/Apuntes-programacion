@@ -15,13 +15,11 @@ Hola, Jorge
 ```
 ## Opciones estilo
 Para usar estos estilos se usa **-e**
-Para imprimir múltiples líneas en una sola línea se usa **\n**
+Para imprimir múltiples líneas en una sola línea se usa **\n** y para tabularla **\t**
 ```
-echo -e "Hola, Jorge\nComo estás\nAdios"
+echo -e "Hola:\tJorge\nComo estás\nAdios"
 ------------------------------------------------------------------------
-Hola, Jorge
+Hola:    Jorge
 Como estás
 Adios
 ```
-Para tabular una línea se usa **\t**
-Para ponerla en negrita \e
