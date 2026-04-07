@@ -10,3 +10,5 @@ cd [directory]
 ```
 cd ../../dir3
 ```
+#### Información extra
+[Comando Cd](https://labex.io/es/tutorials/linux-linux-cd-command-with-practical-examples-422591)
