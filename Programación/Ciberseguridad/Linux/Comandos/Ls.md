@@ -2,8 +2,12 @@
 Se utiliza para listar el contenido de un directorio, proporciona información como sus nombres, permisos o propietarios.
 ```
 ls
-
+------------------------------------------------------------------------
 file1.txt  file2.txt  folder1  folder2
+------------------------------------------------------------------------
+ls folder1
+------------------------------------------------------------------------
+Image.png Log.txt
 ```
 ## -l
 Se utiliza para obtener información más detallada
