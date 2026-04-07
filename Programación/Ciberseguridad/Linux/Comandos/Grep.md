@@ -4,3 +4,6 @@ Busca patrones y contenido específico en archivos de texto
 grep "palabra" note.txt
 ```
 Busca una palabra dentro del archivo de texto
+## Opciones adicionales
+- **-i** Busca tanto la palabra en minúscula como la primera en mayúscula (perro/Perro)
+- **^**
