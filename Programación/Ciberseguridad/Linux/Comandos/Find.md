@@ -14,4 +14,11 @@ find .
 ```
 find . -name "*.txt"
 ```
-- **-type** 
+- **-type** Buscar todos los archivos de cierto tipo o todos los directorios
+```
+find . -type d
+```
+- **-size** Buscar todos los archivos de cierto tamaño
+```bash
+find . -size +1M
+```
