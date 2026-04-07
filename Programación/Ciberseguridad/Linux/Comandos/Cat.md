@@ -9,5 +9,5 @@ Hola mundo!
 - **-n** Muestra el número de cada línea
 - **-E** Pone un $ al final de cada línea
 - **-s** Combina varias líneas vacías en una sola
-#### Información extra
+## Información extra
 [Comando Cat](https://labex.io/es/tutorials/linux-linux-cat-command-with-practical-examples-422589)
