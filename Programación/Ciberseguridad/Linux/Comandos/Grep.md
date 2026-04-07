@@ -9,6 +9,10 @@ Busca una palabra dentro del archivo de texto
 - **^** Busca una expresión que comience a principio de línea
 - **-E** Permite extender expresiones
 ```bash
-grep -E "perro.*aburrido|aburrido.*perro" note.txt
+grep -E "perro.*perezoso|perezoso.*perro" note.txt
 ```
-- **-v^
+- **-v** Sirve para excluir líneas con una palabra determinada
+```bash
+grep "perro" note.txt | grep -v "perezoso"
+# Si una línea tiene la palabra perezoso no 
+```
