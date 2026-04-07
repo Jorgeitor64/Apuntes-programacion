@@ -26,7 +26,7 @@ drwxr-xr-x 2 labex labex 4.0K Apr 12 12:34 folder2
 Usando **-lr** la lista sale inversa
 
 Esto se puede combinar reiteradamente para obtener una lista detallada reversa **-lra**
-## Navegar entre directorios
+## Listar otros directorios
 Para listar el contenido de un directorio concreto se usa **~**
 ```
 ls ~/project/new_folder
