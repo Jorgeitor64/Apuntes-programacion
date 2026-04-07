@@ -6,4 +6,7 @@ cd [directory]
 ## Comandos útiles
 - **cd** Para ir al directorio raíz
 - **cd -** Para ir al directorio anterior
-- **cd ..** 
+- **cd ..** Ir al directorio padre del actual
+```
+cd ../../dir3
+```
