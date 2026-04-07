@@ -6,16 +6,16 @@ find [path] [expression]
 Si no indicamos [path] tomará en el que nos encontremos
 ## Ejemplo
 - Buscar todos los archivos en el directorio actual (Como ls -a)
-```
+```bash
 find .
 ```
 ## Expresiones
 - **-name** Buscar todos los archivos con una extensión determinada o una palabra en común
-```
+```bash
 find . -name "*.txt"
 ```
 - **-type** Buscar todos los archivos de cierto tipo o todos los directorios
-```
+```bash
 find . -type d
 ```
 - **-size** Buscar todos los archivos de cierto tamaño
