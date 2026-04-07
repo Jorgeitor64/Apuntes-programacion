@@ -14,10 +14,11 @@ echo "Hola, $name"
 Hola, Jorge
 ```
 ## Múltiples líneas
-Para imprimir múltiples líneas en una sola línea echo se usa \n
+Para imprimir múltiples líneas en una sola línea se usa \n
 ```
-name = Jorge
-echo "Hola, $name"
+echo "Hola, Jorge\nComo estás\nAdios"
 ------------------------------------------------------------------------
 Hola, Jorge
+Como estás
+Adios
 ```
