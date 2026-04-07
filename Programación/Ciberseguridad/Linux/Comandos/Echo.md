@@ -23,3 +23,5 @@ Hola:    Jorge
 Como estás
 Adios
 ```
+#### Información extra
+[Comando Echo](https://labex.io/es/tutorials/linux-linux-echo-command-with-practical-examples-422656)
