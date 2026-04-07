@@ -14,5 +14,8 @@ grep -E "perro.*perezoso|perezoso.*perro" note.txt
 - **-v** Sirve para excluir líneas con una palabra determinada
 ```bash
 grep "perro" note.txt | grep -v "perezoso"
-# Si una línea tiene la palabra perezoso no 
+# Si una línea tiene la palabra perezoso la excluye
 ```
+- **-n** Agrega el número de línea al inicio de cada línea
+## Información extra
+[Comando Grep](https://labex.io/es/tutorials/linux-linux-grep-command-with-practical-examples-422703)
