@@ -16,4 +16,6 @@
 - Hablar de un argumento (De cita, de datos, de ejemplificación) y decir su función en el texto
 - Opinión general, ligándola a un tema de actualidad
 - Conclusión
-##
+## Elementos formales
+- Anafórico (Retoma un referente anterior)
+- Catafó
