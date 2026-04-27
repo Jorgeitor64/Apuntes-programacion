@@ -10,6 +10,7 @@
 - Pequeño resumen
 - Características
 	- Tipología textual (Argumentación/Narración/Exposición)
-	- Tiene progresión temática que dota de cohesión al tex
+	- Tiene progresión temática que dota de cohesión y coherencia al texto
 	- Función apelativa
-	- Tiene un léxico acorde que dota coherencia al texto
+	- Tiene un léxico acorde que dota de adecuación al texto
+- 
