@@ -7,4 +7,7 @@ El verbo tiene vocal temática, MFTMA y MFPN
 Tipos de formas
  - Derivada
  - Simple
- - Parasi
+ - Parasintética
+ - Compuesta
+Poner su proceso de formación
+##
