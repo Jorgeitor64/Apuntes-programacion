@@ -1,2 +1,5 @@
 Dividir la palabra en morfemas y lexema
-El verbo tiene vocal temática, MF, tiempo modo y asepcto y MF
+	- MDP
+	- MDS
+	- Interfijo
+El verbo tiene vocal temática, MFTMA y MFPN
