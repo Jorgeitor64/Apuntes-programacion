@@ -26,4 +26,6 @@
 - Paralelismos (Organizar ideas y crear ritmo)
 - Enumeración (Clasificar y jerarquizar la información)
 - Campo semántico (Refuerza el tema)
-- Sinonimia ()
+- Sinonimia (Variar el léxico)
+- Antonimia (Contrastes)
+- Hiperónimo/Hipónimo (Jerarquiza conceptos)
