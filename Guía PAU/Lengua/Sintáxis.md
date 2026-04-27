@@ -7,3 +7,4 @@
 - CRV. DATIVO ÉTICO: no aporta ningún valor, si se elimina no cambia nada a nivel sintáctico ni semántico. 
 - PASIVA REFLEJA: equivale a una pasiva normal y se puede transformar en pasiva. De nuevo también tenemos un verbo en voz activa y un sujeto paciente. 
 - MARCA DE IMPERSONALIDAD: convierte verbos personales en impersonales. No se pueden poner en plural
+## Tipos de subor
