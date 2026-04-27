@@ -25,3 +25,4 @@ Causal
 Ilativa 
 Condicional 
 Concesiva.
+![[Pasted image 20260428001736.png]]
