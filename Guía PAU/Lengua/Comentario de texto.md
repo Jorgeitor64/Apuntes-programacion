@@ -22,4 +22,8 @@
 - Sustitución pronominal (Evitar repetición)
 - Deixis temporal (Ordenar la cronología)
 - Elipsis nominal (Reducir redundancia)
-- 
+- Modo verbal
+- Paralelismos (Organizar ideas y crear ritmo)
+- Enumeración (Clasificar y jerarquizar la información)
+- Campo semántico (Refuerza el tema)
+- Sinonimia ()
