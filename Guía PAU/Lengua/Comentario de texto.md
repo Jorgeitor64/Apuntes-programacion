@@ -28,4 +28,9 @@
 - Campo semántico (Refuerza el tema)
 - Sinonimia (Variar el léxico)
 - Antonimia (Contrastes)
-- Hiperónimo/Hipónimo (Jerarquiza conceptos)
+- Hiperónimo/Hipónimos (Jerarquiza conceptos)
+- Proforma léxica (cosa, hecho, persona) (Resumir)
+- Conectores
+	- Aditivos
+	- Concesivos
+	- Causales
