@@ -18,4 +18,8 @@
 - Conclusión
 ## Elementos formales
 - Anafórico (Retoma un referente anterior)
-- Catafó
+- Catafórico (Anuncia algo que se expondrá después)
+- Sustitución pronominal (Evitar repetición)
+- Deixis temporal (Ordenar la cronología)
+- Elipsis nominal (Reducir redundancia)
+- 
