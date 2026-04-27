@@ -1,3 +1,4 @@
+## Morfología
 Analizar la palabra
 Dividir la palabra en morfemas y lexema
 	- MDP (Temporales, locativos...)
@@ -10,4 +11,5 @@ Tipos de formas
  - Parasintética
  - Compuesta
 Poner su proceso de formación
-##
+## Léxico
+Explicar significado y buscar 2 sinónimos y dos antónimos (INSPIRACIÓN)
