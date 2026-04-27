@@ -34,3 +34,5 @@
 	- Aditivos
 	- Concesivos
 	- Causales
+- Registro léxico
+- Introductores de subordinadas
