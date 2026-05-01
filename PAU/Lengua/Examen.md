@@ -1,7 +1,7 @@
 # Examen
 ## Bloque 1: Comentario Lingüístico
 ### Pregunta 1. Resumen, tema y tesis (1 Punto)
-En esta primera pregunta se debe realizar un resumen, indicar el tema y las tesis que sustenta el autor: COMO HACER UN BUEN RESUMEN
+En esta primera pregunta se debe realizar un resumen, indicar el tema y las tesis que sustenta el autor: [[COMO HACER UN BUEN RESUMEN]]
 ### Pregunta 2. Comentario de texto (2 Puntos)
 Realizar un comentario crítico del texto:
 1) Atendiendo al contenido y ofreciendo su opinión (máximo 1 punto)
