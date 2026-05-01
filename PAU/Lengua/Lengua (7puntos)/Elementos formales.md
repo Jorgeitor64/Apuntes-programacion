@@ -1,0 +1,20 @@
+## Elementos formales
+- Anafórico (Retoma un referente anterior)
+- Catafórico (Anuncia algo que se expondrá después)
+- Sustitución pronominal (Evitar repetición)
+- Deixis temporal (Ordenar la cronología)
+- Elipsis nominal (Reducir redundancia)
+- Modo verbal
+- Paralelismos (Organizar ideas y crear ritmo)
+- Enumeración (Clasificar y jerarquizar la información)
+- Campo semántico (Refuerza el tema)
+- Sinonimia (Variar el léxico)
+- Antonimia (Contrastes)
+- Hiperónimo/Hipónimos (Jerarquiza conceptos)
+- Proforma léxica (cosa, hecho, persona) (Resumir)
+- Conectores
+	- Aditivos
+	- Concesivos
+	- Causales
+- Registro léxico
+- Introductores de subordinadas
