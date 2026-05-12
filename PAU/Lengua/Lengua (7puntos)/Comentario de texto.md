@@ -14,6 +14,6 @@
 	- Función apelativa
 	- Léxico valorativo
 	- Tiene un léxico acorde que dota de adecuación al texto
-- Hablar de un argumento (De cita, de datos, de ejemplificación) y decir su función en el texto
+- Hablar de un argumento (De cita, de datos, de ejemplificación) y decir su función en el texto, no vale con decir para que lo usa la autora sino decir explícitamente su función
 - Opinión general, ligándola a un tema de actualidad
 - Conclusión
