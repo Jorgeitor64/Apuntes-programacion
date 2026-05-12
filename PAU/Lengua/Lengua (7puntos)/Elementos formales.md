@@ -18,3 +18,4 @@
 	- Causales
 - Registro léxico
 - Introductores de subordinadas
+- Marcadores discursivos
