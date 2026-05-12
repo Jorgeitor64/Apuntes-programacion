@@ -12,6 +12,7 @@
 	- Tipología textual (Argumentación/Narración/Exposición)
 	- Tiene progresión temática que dota de cohesión y coherencia al texto
 	- Función apelativa
+	- Léxico valorativo
 	- Tiene un léxico acorde que dota de adecuación al texto
 - Hablar de un argumento (De cita, de datos, de ejemplificación) y decir su función en el texto
 - Opinión general, ligándola a un tema de actualidad
