@@ -1075,19 +1075,19 @@ Sustituyendo los datos:
 
 $$E_p = -\frac{GM_T m}{R} = -\frac{6{,}67\cdot10^{-11}\cdot5{,}98\cdot10^{24}\cdot100}{7{,}37\cdot10^6} = \boxed{-5{,}4\cdot10^9\ \text{J}}$$
 
-**No podríamos utilizar** la expresión $E_p = mgh$, ya que esta solo es válida para alturas $h$ muy pequeñas en comparación con el radio de la Tierra ($h \ll R_T$). Es decir, la expresión $E_p = mgh$ es una aproximación de la expresión general $E_p = -\dfrac{GMm}{r}$, tomando como origen de energía la superficie terrestre y no el infinito, que es el que se toma para la general.
+**No podríamos utilizar** la expresión $E_p = mgh$, ya que esta solo es válida para alturas $h$ muy pequeñas en comparación con el radio de la Tierra ($h \ll R_T$). Es decir, la expresión $E_p = mgh$ es una aproximación de la expresión general $E_p = -\frac{GMm}{r}$, tomando como origen de energía la superficie terrestre y no el infinito, que es el que se toma para la general.
 
 **Apartado b):**
 
-Suponiendo que la órbita del astronauta es circular, debe existir una fuerza centrípeta $F_C = m\dfrac{V^2}{R}$ que lo mantenga en ese MCU. Como el astronauta solo está sometido a una fuerza, la gravitatoria, esta debe actuar como fuerza centrípeta: $F_C = F_g$.
+Suponiendo que la órbita del astronauta es circular, debe existir una fuerza centrípeta $F_C = m\frac{V^2}{R}$ que lo mantenga en ese MCU. Como el astronauta solo está sometido a una fuerza, la gravitatoria, esta debe actuar como fuerza centrípeta: $F_C = F_g$.
 
-La fuerza gravitatoria será $F = \dfrac{GMm}{R^2}$. Por tanto:
+La fuerza gravitatoria será $F = \frac{GMm}{R^2}$. Por tanto:
 
 $$\frac{mV^2}{R} = \frac{GMm}{R^2} \implies V = \sqrt{\frac{GM}{R}}$$
 
 Sustituyendo datos:
 
-$$V = \sqrt{\frac{6{,}67\cdot10^{-11}\cdot5{,}98\cdot10^{24}}{7{,}87\cdot10^6}} = \boxed{7{,}36\cdot10^3\ \text{m/s}}$$
+$$V = \sqrt{\frac{6{,}67 \times 10^{-11} \times 5{,}98 \times 10^{24}}{7{,}37 \times 10^6}} = \boxed{7{,}36 \times 10^3\ \text{m/s}}$$
 
 ---
 
@@ -1107,15 +1107,21 @@ $$E_{C_\text{sup}} + E_{p_\text{sup}} = E_{C_\text{orb}} + E_{p_\text{orb}}$$
 
 $$\frac{1}{2}mV_\text{sup}^2 - \frac{GMm}{R_T} = \frac{1}{2}mV_\text{orb}^2 - \frac{GMm}{R_\text{orb}}$$
 
-Sustituyendo la expresión de la velocidad orbital de un cuerpo en órbita circular de radio $R_\text{orb}$, $V_\text{orb} = \sqrt{\dfrac{GM}{R_\text{orb}}}$, obtenemos:
+Sustituyendo la expresión de la velocidad orbital de un cuerpo en órbita circular de radio $R_\text{orb}$, $V_\text{orb} = \sqrt{\frac{GM}{R_\text{orb}}}$, obtenemos:
 
 $$\frac{1}{2}mV_\text{sup}^2 - \frac{GMm}{R_T} = -\frac{1}{2}\frac{GMm}{R_\text{orb}}$$
 
 Despejando $V_\text{sup}$:
 
-$$V_\text{sup} = \sqrt{\frac{2GM}{R_T} - \frac{GM}{R_\text{orb}}} = \sqrt{\frac{2GM}{R_T} - \frac{GM}{5R_T}} = \sqrt{\frac{GM}{R_T}\left(2 - \frac{1}{5}\right)} = \sqrt{\frac{1{,}8\,GM}{R_T}}$$
+$$V_\text{sup} = \sqrt{\frac{2GM}{R_T} - \frac{GM}{R_\text{orb}}}$$
 
-$$V_\text{sup} = \sqrt{1{,}8\cdot\frac{6{,}67\cdot10^{-11}\cdot5{,}98\cdot10^{24}}{6{,}37\cdot10^6}} = \boxed{1{,}06\cdot10^4\ \text{m/s}}$$
+Con $R_\text{orb} = 5R_T$:
+
+$$V_\text{sup} = \sqrt{\frac{2GM}{R_T} - \frac{GM}{5R_T}} = \sqrt{\frac{GM}{R_T}\left(2 - 0{,}2\right)} = \sqrt{\frac{1{,}8 \times GM}{R_T}}$$
+
+Sustituyendo datos:
+
+$$V_\text{sup} = \sqrt{1{,}8 \times \frac{6{,}67 \times 10^{-11} \times 5{,}98 \times 10^{24}}{6{,}37 \times 10^6}} = \boxed{1{,}06 \times 10^4\ \text{m/s}}$$
 
 Deberá ser lanzado con una velocidad de $V_\text{sup} = 10\,600\ \text{m/s}$.
 
@@ -1137,12 +1143,12 @@ $$\frac{1}{2}mV_\text{esc}^2 - \frac{GMm}{R} = 0 \implies V_\text{esc} = \sqrt{\
 
 siendo $M$ la masa del planeta y $R$ el radio del planeta.
 
-En este problema $R = \dfrac{R_T}{2}$ y $g = \dfrac{g_T}{2} = \dfrac{9{,}8}{2} = \dfrac{GM}{\left(\dfrac{R_T}{2}\right)^2}$
+En este problema: $R = \frac{R_T}{2}$ y $g = \frac{g_T}{2} = 4{,}9\ \text{m/s}^2$
 
-Despejamos $M$:
+Para encontrar la masa del planeta, usamos: $g = \frac{GM}{R^2}$, entonces:
 
-$$M = \frac{4{,}9\cdot R_T^2}{4G} = \frac{4{,}9\cdot(6{,}37\cdot10^6)^2}{4\cdot6{,}67\cdot10^{-11}} = 7{,}45\cdot10^{23}\ \text{kg}$$
+$$M = \frac{g \times R^2}{G} = \frac{4{,}9 \times (3{,}185 \times 10^6)^2}{6{,}67 \times 10^{-11}} = 7{,}45 \times 10^{23}\ \text{kg}$$
 
-Sustituyendo datos:
+Sustituyendo en la velocidad de escape:
 
-$$V_\text{esc} = \sqrt{\frac{2\cdot6{,}67\cdot10^{-11}\cdot7{,}45\cdot10^{23}}{3{,}185\cdot10^6}} = \boxed{5{,}59\cdot10^3\ \text{m/s}}$$
+$$V_\text{esc} = \sqrt{\frac{2GM}{R}} = \sqrt{\frac{2 \times 6{,}67 \times 10^{-11} \times 7{,}45 \times 10^{23}}{3{,}185 \times 10^6}} = \boxed{5{,}59 \times 10^3\ \text{m/s}}$$
