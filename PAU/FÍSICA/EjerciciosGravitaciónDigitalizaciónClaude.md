@@ -27,50 +27,49 @@
 
 | Nº | Contenido | Fuente |
 |---|---|---|
-| 1 | Campo conservativo y campo gravitatorio | EBAU 2018 |
-| 2 | Periodo orbital de la Luna si se duplica $M_T$ | EBAU 2022 |
-| 3 | Variación del periodo si se duplica $M_\text{Luna}$ o $M_T$ | EBAU 2022 |
-| 4 | Velocidad de escape: definición y deducción | EBAU 2021 |
-| 5 | Velocidad de escape comparada entre dos planetas | EBAU 2020 |
-| 6 | Energía mecánica de dos satélites en órbitas distintas | EBAU 2021 |
-| 7 | Altura para perder el 30% del peso | EBAU 2021 |
-| 8 | Satélite artificial y tercera ley de Kepler | EBAU 2019 |
-| 9 | Deducción de $E_p = mgh$ | EBAU 2020 |
-| 10 | Velocidad de lanzamiento desde la Tierra | EBAU 2020 |
-| 11 | Satélite en órbita circular de radio 7200 km | EBAU 2020 |
-| 12 | Densidad media de un planeta | EBAU 2021 |
-| 13 | Energía para cambiar de órbita geoestacionaria | EBAU 2021 |
-| 14 | Intensidad gravitatoria en la órbita de Deimos | EBAU 2022 |
-| 15 | Energía aportada a la ISS para cambiar altitud | EBAU 2022 |
-| 16 | Energía para escapar desde órbita a 30 000 km | EBAU 2021 |
-| 17 | Impacto de meteorito sobre la Tierra | EBAU 2022 |
-| 18 | Densidad media de Júpiter (satélite Calisto) | EBAU 2022 |
-| 19 | Masa de una estrella con exoplaneta | EBAU 2020 |
-| 20 | Energía para poner en órbita el satélite CHEOPS | EBAU 2020 |
-| 21 | Radio y año de Urano | EBAU 2018 |
-| 22 | Masa de un planeta y energía mecánica de un satélite | EBAU 2019 |
-| 23 | ISS: altura, velocidad orbital y duplicar órbita | EBAU 2018 |
-| 24 | Velocidad de Mercurio y diámetro de Mercurio | EBAU 2018 |
-| 25 | Velocidad, periodo, energía y $V_\text{esc}$ de un satélite | EBAU 2019 |
-| 26 | Velocidad orbital de Marte y masa del Sol | EBAU 2023 |
-| 27 | Energía cinética y potencial de un satélite | EBAU 2023 |
-| 28 | $E_M = \frac{1}{2}E_p$ para un satélite en órbita circular | EBAU 2023 |
-| 29 | Velocidad de escape desde la Luna | PAU 2024 |
-| 30 | Masa de un satélite a partir de $V_\text{orb}$ y $F_g$ | PAU 2024 |
-| 31 | Superficies equipotenciales en campo uniforme | PAU 2024 |
-| 32 | Diferencia de peso entre superficie y órbita | PAU 2024 |
-| 33 | Energía potencial de un meteorito Tierra–Luna | PAU 2024 |
-| 34 | Relación entre $E_C$ y $E_p$ en órbita circular | PAU 2024 |
-| 35 | Afirmaciones sobre un objeto en campo gravitatorio | PAU 2025 |
-| 36 | Satélite Swift: velocidad orbital, periodo y peso | PAU 2025 |
-| 37 | Exoplaneta: peso y velocidad de escape | PAU 2025 |
-| 38 | Líneas de campo y superficies equipotenciales | PAUex 2025 |
-| 39 | Astronauta en órbita: $E_p$ y velocidad orbital | PAUex 2025 |
-| 40 | Velocidad de lanzamiento para órbita a $5R_T$ | PAUex 2025 |
-| 41 | Velocidad de escape con $R = R_T/2$ y $g = g_T/2$ | PAUex 2025 |
+| 1 | [Campo conservativo y campo gravitatorio](#ejercicio-1--campo-conservativo-y-campo-gravitatorio-ebau-2018) | EBAU 2018 |
+| 2 | [Periodo orbital de la Luna](#ejercicio-2--periodo-orbital-de-la-luna-ebau-2022) | EBAU 2022 |
+| 3 | [Periodo de la Luna alrededor del Sol](#ejercicio-3--periodo-de-la-luna-alrededor-del-sol) | EBAU 2022 |
+| 4 | [Ejercicio 4](#ejercicio-4) | — |
+| 5 | [Velocidad de escape comparada entre dos planetas](#ejercicio-5--velocidad-de-escape-comparada-entre-dos-planetas) | — |
+| 6 | [Energía mecánica de dos satélites](#ejercicio-6--energía-mecánica-de-dos-satélites) | — |
+| 7 | [Altura para perder el 30% del peso](#ejercicio-7--altura-para-perder-el-30-del-peso-ebau-2021) | EBAU 2021 |
+| 8 | [Satélite artificial y tercera ley de Kepler](#ejercicio-8--satélite-artificial-y-tercera-ley-de-kepler-ebau-2019) | EBAU 2019 |
+| 9 | [Deducción de $E_p = mgh$](#ejercicio-9--deducción-de-ep--mgh-ebau-2020) | EBAU 2020 |
+| 10 | [Velocidad de lanzamiento](#ejercicio-10--velocidad-de-lanzamiento-ebau-2020) | EBAU 2020 |
+| 11 | [Satélite en órbita circular](#ejercicio-11--satélite-en-órbita-circular-ebau-2020) | EBAU 2020 |
+| 12 | [Densidad media de un planeta](#ejercicio-12--densidad-media-de-un-planeta-ebau-2021) | EBAU 2021 |
+| 13 | [Energía para cambiar de órbita geoestacionaria](#ejercicio-13--energía-para-cambiar-de-órbita-geoestacionaria-ebau-2021) | EBAU 2021 |
+| 14 | [Intensidad gravitatoria en la órbita de Deimos](#ejercicio-14--intensidad-gravitatoria-en-la-órbita-de-deimos-ebau-2022) | EBAU 2022 |
+| 15 | [Energía aportada a la ISS para cambiar altitud](#ejercicio-15--energía-aportada-a-la-iss-para-cambiar-altitud-ebau-2022) | EBAU 2022 |
+| 16 | [Energía para escapar desde órbita](#ejercicio-16--energía-para-escapar-desde-órbita-ebau-2021) | EBAU 2021 |
+| 17 | [Impacto de meteorito](#ejercicio-17--impacto-de-meteorito-ebau-2022) | EBAU 2022 |
+| 18 | [Densidad media de Júpiter](#ejercicio-18--densidad-media-de-júpiter-ebau-2022) | EBAU 2022 |
+| 19 | [Masa de una estrella](#ejercicio-19--masa-de-una-estrella-ebau-2020) | EBAU 2020 |
+| 20 | [Energía para poner en órbita el satélite CHEOPS](#ejercicio-20--energía-para-poner-en-órbita-el-satélite-cheops-ebau-2020) | EBAU 2020 |
+| 21 | [Radio y año de Urano](#ejercicio-21--radio-y-año-de-urano-ebau-2018) | EBAU 2018 |
+| 22 | [Masa del planeta y energía mecánica del satélite](#ejercicio-22--masa-del-planeta-y-energía-mecánica-del-satélite-ebau-2019) | EBAU 2019 |
+| 23 | [ISS: altura, velocidad orbital y energía](#ejercicio-23--iss-altura-velocidad-orbital-y-energía-ebau-2018) | EBAU 2018 |
+| 24 | [Velocidad de Mercurio y diámetro de Mercurio](#ejercicio-24--velocidad-de-mercurio-y-diámetro-de-mercurio-ebau-2018) | EBAU 2018 |
+| 25 | [Velocidad, periodo, energía y velocidad de escape de un satélite](#ejercicio-25--velocidad-periodo-energía-y-velocidad-de-escape-de-un-satélite-ebau-2019) | EBAU 2019 |
+| 26 | [Velocidad orbital de Marte y masa del Sol](#ejercicio-26--velocidad-orbital-de-marte-y-masa-del-sol-ebau-2023) | EBAU 2023 |
+| 27 | [Energía cinética y potencial de un satélite](#ejercicio-27--energía-cinética-y-potencial-de-un-satélite-ebau-2023) | EBAU 2023 |
+| 28 | [Relación entre energía mecánica y potencial](#ejercicio-28--relación-entre-energía-mecánica-y-potencial-ebau) | EBAU 2023 |
+| 29 | [Velocidad de escape desde la Luna](#ejercicio-29--velocidad-de-escape-desde-la-luna-pau-2024) | PAU 2024 |
+| 30 | [Masa de un satélite](#ejercicio-30--masa-de-un-satélite-pau-2024) | PAU 2024 |
+| 31 | [Superficies equipotenciales](#ejercicio-31--superficies-equipotenciales-pau-2024) | PAU 2024 |
+| 32 | [Diferencia de peso entre superficie y órbita](#ejercicio-32--diferencia-de-peso-entre-superficie-y-órbita-pau-2024) | PAU 2024 |
+| 33 | [Energía potencial de un meteorito entre Tierra y Luna](#ejercicio-33--energía-potencial-de-un-meteorito-entre-tierra-y-luna-pau-2024) | PAU 2024 |
+| 34 | [Relación entre energía cinética y potencial](#ejercicio-34--relación-entre-energía-cinética-y-potencial-pau-2024) | PAU 2024 |
+| 35 | [Afirmaciones sobre un objeto en campo gravitatorio](#ejercicio-35--afirmaciones-sobre-un-objeto-en-campo-gravitatorio-pau-2025) | PAU 2025 |
+| 36 | [Satélite Swift: velocidad, periodo y peso](#ejercicio-36--satélite-swift-velocidad-periodo-y-peso-pau-2025) | PAU 2025 |
+| 37 | [Exoplaneta: peso y velocidad de escape](#ejercicio-37--exoplaneta-peso-y-velocidad-de-escape-pau-2025) | PAU 2025 |
+| 38 | [Líneas de campo y superficies equipotenciales](#ejercicio-38--líneas-de-campo-y-superficies-equipotenciales-pauex-2025) | PAUex 2025 |
+| 39 | [Astronauta en órbita: energía potencial y velocidad orbital](#ejercicio-39--astronauta-en-órbita-energía-potencial-y-velocidad-orbital-pauex-2025) | PAUex 2025 |
+| 40 | [Velocidad de lanzamiento para órbita a $5R_T$](#ejercicio-40--velocidad-de-lanzamiento-para-órbita-a-5rt-pauex-2025) | PAUex 2025 |
+| 41 | [Velocidad de escape de un planeta](#ejercicio-41--velocidad-de-escape-de-un-planeta-con-r--rt2-y-g--gt2-pauex-2025) | PAUex 2025 |
 
 ---
-
 ## Ejercicio 1 — Campo conservativo y campo gravitatorio *(EBAU 2018)*
 
 > **a)** Explique qué es un campo conservativo y razone si el campo gravitatorio lo es o no.
@@ -174,6 +173,8 @@ Por tanto: $\boxed{T' = \dfrac{T}{\sqrt{2}}}$
 
 ## Ejercicio 3 — Periodo de la Luna alrededor del Sol
 
+> Si repentinamente se duplicara la masa de la Luna, ¿cómo variaría su periodo de rotación alrededor de la Tierra? ¿Y si fuera la Tierra la que duplicara su masa? Razone las respuestas.
+
 Usando el mismo razonamiento que en el ejercicio anterior, llegamos a la expresión siguiente para la velocidad de la Luna alrededor del Sol:
 
 $$T = \sqrt{\frac{4\pi^2 R^3}{GM}}$$
@@ -186,11 +187,15 @@ Si fuese la Tierra la que duplicase su masa, el periodo sería: $T' = \dfrac{1}{
 
 ## Ejercicio 4
 
-Pg. 89 del libro de texto.
+> Defina velocidad de escape de un cuerpo y deduzca su expresión a partir del principio de conservación de la energía mecánica. 
+
+*Página 89 del libro de texto.*
 
 ---
 
 ## Ejercicio 5 — Velocidad de escape comparada entre dos planetas
+
+> Razone si es verdadera o falsa la siguiente afirmación: *"Para dos planetas de igual masa, pero diferente densidad media, la velocidad de escape desde la superficie es mayor para el planeta que tiene la menor densidad media"*.
 
 - Planeta 1: masa $M$, radio $R_1$, densidad $d_1$
 - Planeta 2: masa $M$, radio $R_2$, densidad $d_2$
@@ -208,6 +213,8 @@ como $R_2 > R_1 \implies \boxed{V_1 > V_2}$
 ---
 
 ## Ejercicio 6 — Energía mecánica de dos satélites
+
+> Dos satélites describen órbitas circulares de radios $R_1$ y $R_2$ alrededor de la Tierra. Ambos satélites tienen la misma masa y $R_1 > R_2$. Indique razonadamente cuál de los dos satélites tiene mayor energía mecánica.
 
 - Satélite 1: $R_1$ = radio de la órbita, $m$ = masa
 - Satélite 2: $R_2$ = radio de la órbita, $m$ = masa
@@ -969,7 +976,7 @@ Considere un objeto que se mueve estando únicamente bajo el efecto de un campo 
 
 ## Ejercicio 36 — Satélite Swift: velocidad, periodo y peso (PAU 2025)
 
-El satélite artificial Swift describe una órbita circular a una altura de 290 km sobre la superficie terrestre.
+El satélite artificial Swift se dedica al estudio de un fenómeno astrofísico conocido como explosiones de rayos gamma y describe una órbita circular a una altura de 290 km sobre la superficie terrestre.
 
 **a)** Determine la velocidad orbital y el periodo de la órbita. (1 punto)
 **b)** Determine el peso de un sensor de rayos X que lleva acoplado, cuya masa es de 150 kg. (1 punto)
