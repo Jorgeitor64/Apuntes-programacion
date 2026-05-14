@@ -1056,7 +1056,7 @@ Podemos añadir que, por definición, el trabajo realizado por el campo gravitat
 
 En la película *Gravity*, el astronauta Matt Kowalski (interpretado por George Clooney) se encuentra orbitando la Tierra tras un accidente en el espacio. Supongamos que su masa con el traje espacial es de 100 kg, y que su órbita se encuentra a una altura $h = 1000\ \text{km}$ sobre la superficie terrestre.
 
-**a)** Determine su energía potencial gravitatoria. Para este cálculo, ¿podría utilizarse la expresión $E = mgh$? Explique su respuesta. (1 punto)
+**a)** Determine su energía potencial gravitatoria. Para este cálculo, ¿podría utilizarse la expresión $E_p = mgh$? Explique su respuesta. (1 punto)
 **b)** Calcule la velocidad de Kowalski mientras orbita. (1 punto)
 
 Datos:
