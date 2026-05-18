@@ -1,6 +1,7 @@
 # Sistema Inputs
-En el nuevo sistema introducido en Unity los inputs dejan de usar Input.GetKey para pasar a usar un sistema más compleja que mejora la compatibilidad con mandos
+En el nuevo sistema introducido en Unity los inputs dejan de usar "Input.GetKey" para pasar a usar un sistema más complejo que mejora la compatibilidad con mandos
 ## Comando básico
-```C
-dirb <URL_OBJETIVO> -o reporte.txt
+```C#
+InputSystem.actions.FindAction("Accion");
 ```
+Todas estas acciones deberán ser configuradas con anterioridad en el Input System, indicando el nombre de la acción, el cual sera el que se pondrá entre comillas, 
