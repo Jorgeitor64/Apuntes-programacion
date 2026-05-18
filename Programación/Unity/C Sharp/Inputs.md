@@ -4,4 +4,4 @@ En el nuevo sistema introducido en Unity los inputs dejan de usar "Input.GetKey"
 ```C#
 InputSystem.actions.FindAction("Accion");
 ```
-Todas estas acciones deberán ser configuradas con anterioridad en el Input System, indicando el nombre de la acción, el cual sera el que se pondrá entre comillas, 
+Todas estas acciones deberán ser configuradas con anterioridad en el Input System, indicando el nombre de la acción, el cual será el que se pondrá entre comillas, y la tecla asociada, tanto del teclado como del mando u cualquier otra clase de control.
