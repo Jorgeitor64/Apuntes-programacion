@@ -2,8 +2,8 @@ Tanto Nietzsche como Ortega y Gasset son filósofos que se sitúan al margen del
 filosofía dominante de su tiempo, tomando como centro de la reflexión la vida. Sin embargo, sus planteamientos parten de contextos distintos y dan lugar a teorías diferentes, aunque con ciertos puntos en común.  
 
 
-En cuanto a la concepción de la **razón** y a la consideración del pensamiento tradicional,  
-Nietzsche es radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a 
+Ambos critican la **razón** y al idealismo, siendo  
+Nietzsche radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a 
 quienes culpa de haber instaurado una moral racionalista que desprecia la vida. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone un raciovitalismo, más cercana a la vida y circunstancia concreta del individuo que explique y oriente esta.
 
 
@@ -19,7 +19,7 @@ Con respecto al ser humano, para Nietzsche su ideal es el **superhombre**, aquel
 En cuanto a la concepción de verdad y el **conocimiento**, también hay puntos en común. Nietzsche sostiene una postura relativista y perspectivista: no hay verdades absolutas, sino interpretaciones. Ortega adopta una postura parecida, pero matizada: para él, toda verdad está ligada a la perspectiva del sujeto, pero eso no significa que no podamos acercarnos a una comprensión más rica y compleja de la realidad sumando distintos puntos de vista.  
 
 
-Difieren en cuanto a su concepción de tiempo. Nietzsche defiende que el tiempo es cíclico fundamenta en el eterno retorno, negando toda finalidad a la existencia. Mientras que Ortega tiene una concepción lineal del tiempo en la que la historia es fundamental y condiciona al individuo.
+Difieren en cuanto a su concepción de tiempo. Nietzsche defiende que el tiempo es cíclico fundamenta en el eterno retorno, negando toda finalidad a la existencia. Mientras que Ortega tiene una concepción lineal del tiempo en la que la historia es fundamental y condiciona al individuo, pues somos herederos de un pasado concreto.
 
 
 Por último, si tenemos en cuenta la visión que ambos autores tenían acerca de la
