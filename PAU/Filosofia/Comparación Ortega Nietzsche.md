@@ -7,7 +7,7 @@ Nietzsche es radicalmente crítico con la filosofía racionalista. Para él, la 
 
 
 Ambos critican duramente a la **sociedad** de su tiempo. Nietzsche habla del rebaño, una  
-mayoría que vive sometida a valores débiles, sin creatividad ni fuerza vital. Ortega  
+mayoría que vive sometida a valores débiles y se subleva a trasmundos, sin creatividad ni fuerza vital. Ortega  
 desarrolla una crítica similar en su obra La rebelión de las masas, donde denuncia la  
 figura del hombre-masa que representa la mediocridad y el conformismo y que impone su visión a toda la sociedad.  
 
