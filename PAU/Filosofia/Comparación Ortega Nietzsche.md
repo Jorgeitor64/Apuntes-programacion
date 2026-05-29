@@ -2,10 +2,9 @@ Tanto Nietzsche como Ortega y Gasset son filósofos que se sitúan al margen del
 filosofía dominante de su tiempo. Sin embargo, sus planteamientos parten de contextos distintos y dan lugar a teorías diferentes, aunque con ciertos puntos en común.  
 
 
-En cuanto a la concepción de la razón y a la consideración del pensamiento tradicional,  
-Nietzsche es radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a  
-quienes culpa de haber instaurado una moral racionalista que desprecia la vida y la parte dionisíaca del hombre. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital  del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone una razón vital, más cercana a la vida  
-concreta del individuo que explique y oriente ésta.
+En cuanto a la concepción de la **razón** y a la consideración del pensamiento tradicional,  
+Nietzsche es radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a 
+quienes culpa de haber instaurado una moral racionalista que desprecia la vida y la parte dionisiaca del hombre. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone una razón vital, más cercana a la vida y concreta del individuo que explique y oriente esta.
 
 
 Ambos critican duramente a la sociedad de su tiempo. Nietzsche habla del rebaño, una  
