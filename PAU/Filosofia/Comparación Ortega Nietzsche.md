@@ -1,5 +1,5 @@
 Tanto Nietzsche como Ortega y Gasset son filósofos que se sitúan al margen del pensamiento tradicional. Ambos comparten una actitud crítica frente a la cultura y la  
-filosofía dominante de su tiempo. Sin embargo, sus planteamientos parten de contextos distintos y dan lugar a teorías diferentes, aunque con ciertos puntos en común.  
+filosofía dominante de su tiempo, toman como centro de la reflexión la vida. Sin embargo, sus planteamientos parten de contextos distintos y dan lugar a teorías diferentes, aunque con ciertos puntos en común.  
 
 
 En cuanto a la concepción de la **razón** y a la consideración del pensamiento tradicional,  
