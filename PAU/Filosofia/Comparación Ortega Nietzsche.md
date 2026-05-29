@@ -3,8 +3,7 @@ filosofía dominante de su tiempo, tomando como centro de la reflexión la vida.
 
 
 Ambos critican la **razón** y al idealismo, siendo  
-Nietzsche radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a 
-quienes culpa de haber instaurado una moral racionalista que desprecia la vida. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone un raciovitalismo, más cercana a la vida y circunstancia concreta del individuo que explique y oriente esta.
+Nietzsche es radicalmente crítico con la filosofía racionalista. Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone un raciovitalismo, más cercana a la vida y circunstancia concreta del individuo que explique y oriente esta.
 
 
 Ambos critican duramente a la **sociedad** de su tiempo. Nietzsche habla del rebaño, una  
