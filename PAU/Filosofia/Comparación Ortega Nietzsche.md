@@ -22,6 +22,6 @@ Difieren en cuanto a su concepción de tiempo. Nietzsche defiende que el tiempo 
 
 
 Por último, si tenemos en cuenta la visión que ambos autores tenían acerca de la
-filosofía, podemos decir que Nietzsche busca una transformación profunda de la cultura, un cambio de valores que permita la aparición del superhombre. Su filosofía es una  filosofía de ruptura. Ortega nos dice que la filosofía debe reformar y debe ser  
-considerada como un saber radical que parte de la existencia, de la vida humana para  
-poder analizar el ser en su totalidad.
+filosofía, podemos decir que Nietzsche busca una transformación profunda de la cultura, un cambio de valores que permita la aparición del superhombre. Su filosofía es una  filosofía de ruptura. Ortega nos dice que la filosofía debe ser  
+considerada como un saber radical que parte de la existencia de la vida humana para  
+poder analizar el universo en su totalidad.
