@@ -19,7 +19,7 @@ Con respecto al ser humano, para Nietzsche su ideal es el **superhombre**, aquel
 En cuanto a la concepción de verdad y el **conocimiento**, también hay puntos en común. Nietzsche sostiene una postura relativista y perspectivista: no hay verdades absolutas, sino interpretaciones. Ortega adopta una postura parecida, pero matizada: para él, toda verdad está ligada a la perspectiva del sujeto, pero eso no significa que no podamos acercarnos a una comprensión más rica y compleja de la realidad sumando distintos puntos de vista.  
 
 
-También interpretan de distinta forma el tiempo. Nietzsche defiende una concepción cíclica temporal fundamenta en el eterno retorno, negando toda finalidad a la existencia. Mientras que Ortega tiene una concepción lineal del tiempo en la que la historia es fundamental y condiciona al individuo.
+Difieren en cuanto a su concepción de tiempo. Nietzsche defiende que el tiempo es cíclico fundamenta en el eterno retorno, negando toda finalidad a la existencia. Mientras que Ortega tiene una concepción lineal del tiempo en la que la historia es fundamental y condiciona al individuo.
 
 
 Por último, si tenemos en cuenta la visión que ambos autores tenían acerca de la
