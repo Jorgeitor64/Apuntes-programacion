@@ -4,7 +4,7 @@ filosofía dominante de su tiempo, tomando como centro de la reflexión la vida.
 
 En cuanto a la concepción de la **razón** y a la consideración del pensamiento tradicional,  
 Nietzsche es radicalmente crítico con la filosofía occidental desde Sócrates y Platón, a 
-quienes culpa de haber instaurado una moral racionalista que desprecia la vida. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano, siendo para Nietzsche la vida instinto. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone un raciovitalismo, más cercana a la vida y concreta del individuo que explique y oriente esta.
+quienes culpa de haber instaurado una moral racionalista que desprecia la vida. Entiende también que la religión ha ayudado a legitimar esto.  Para él, la razón ha impuesto una moral de esclavos que niega el verdadero impulso vital del ser humano. En cambio, Ortega, aunque también se distancia del racionalismo absoluto, no rechaza la razón, sino que propone un raciovitalismo, más cercana a la vida y circunstancia concreta del individuo que explique y oriente esta.
 
 
 Ambos critican duramente a la **sociedad** de su tiempo. Nietzsche habla del rebaño, una  
