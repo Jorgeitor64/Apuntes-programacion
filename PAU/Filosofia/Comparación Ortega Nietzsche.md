@@ -19,6 +19,7 @@ Con respecto al ser humano, para Nietzsche su ideal es el **superhombre**, aquel
 En cuanto a la concepción de verdad y el **conocimiento**, también hay puntos en común. Nietzsche sostiene una postura relativista y perspectivista: no hay verdades absolutas, sino interpretaciones. Ortega adopta una postura parecida, pero matizada: para él, toda verdad está ligada a la perspectiva del sujeto, pero eso no significa que no podamos acercarnos a una comprensión más rica y compleja de la realidad sumando distintos puntos de vista.  
 
 
+También interpretan de distinta forma la historia, para Nietzsche la historia se basa en el eterno retorno
 Por último, si tenemos en cuenta la visión que ambos autores tenían acerca de la
 filosofía, podemos decir que Nietzsche busca una transformación profunda de la cultura, un cambio de valores que permita la aparición del superhombre. Su filosofía es una  filosofía de ruptura. Ortega nos dice que la filosofía debe reformar y debe ser  
 considerada como un saber radical que parte de la existencia, de la vida humana para  
