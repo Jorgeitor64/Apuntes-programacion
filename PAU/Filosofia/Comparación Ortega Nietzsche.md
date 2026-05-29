@@ -13,7 +13,7 @@ desarrolla una crítica similar en su obra La rebelión de las masas, donde denu
 figura del hombre-masa que representa la mediocridad y el conformismo y que impone su visión a toda la sociedad.  
 
 
-Con respecto al ser humano, para Nietzsche su ideal es el **superhombre**, aquel que es capaz de crear sus propios valores y vivir más allá de las normas impuestas por la moral tradicional. Ortega, por su parte, parte de la idea de que el ser humano es un **proyecto**, alguien que se construye a sí mismo a partir de su circunstancia. Su frase “yo soy yo y mi circunstancia” expresa esta idea de que no existimos aislados, sino en un contexto que debemos asumir y transformar.
+Con respecto al ser humano, para Nietzsche su ideal es el **superhombre**, aquel que es capaz de crear sus propios valores y vivir más allá de las normas impuestas por la moral tradicional. Ortega, por su parte, parte de la idea de que el ser humano es un **proyecto**, alguien que se construye a sí mismo a partir de su circunstancia y busca una finalidad. Su frase “yo soy yo y mi circunstancia” expresa esta idea de que no existimos aislados, sino en un contexto que debemos asumir y transformar.
 
 
 En cuanto a la concepción de verdad y el **conocimiento**, también hay puntos en común. Nietzsche sostiene una postura relativista y perspectivista: no hay verdades absolutas, sino interpretaciones. Ortega adopta una postura parecida, pero matizada: para él, toda verdad está ligada a la perspectiva del sujeto, pero eso no significa que no podamos acercarnos a una comprensión más rica y compleja de la realidad sumando distintos puntos de vista.  
