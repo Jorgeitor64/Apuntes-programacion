@@ -23,6 +23,6 @@ Modo
 Tiempo 
 Causal 
 Ilativa 
-Condicional 
-Concesiva.
+Condicional (Prótasis, apódosis)
+Concesiva (Prótasis, apódosis)
 ![[Pasted image 20260428001736.png]]
