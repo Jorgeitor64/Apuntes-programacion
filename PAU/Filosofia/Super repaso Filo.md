@@ -87,7 +87,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 	- Virtudes
 		- Punto medio entre dos extremos viciosos por exceso y por defecto
 		- Constituyen nuestro carácter por medio de la costumbre
-		- El ser humano no es bueno o malo por naturaleza sino por sus hábitos
+		- El ser humano no es bueno o malo por naturaleza, sino por sus hábitos
 - Política
 	- El ser humano es social por naturaleza, no somos autosuficientes y tenemos la capacidad del lenguaje y la palabra, debemos ser seres sociales
 	- La comunidad es condición necesaria para alcanzar la felicidad, método genealógico para entender la ciudad
