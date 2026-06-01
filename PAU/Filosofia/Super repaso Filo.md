@@ -334,3 +334,8 @@ mediante los diálogos de un profeta llama Zaratustra.
 				- Idealismo: Existencia incuestionable del sujeto pensante
 			- Es un error reducir la realidad a representaciones mentales del sujeto
 			- Ser indigente, necesita del mundo para existir
+			- Dato radical es la existencia íntima entre el sujeto y el mundo
+		- Atributos de la vida
+			- Autoconsciencia
+			- Circunstancia (Todo lo que afecta al sujeto)
+			- 
