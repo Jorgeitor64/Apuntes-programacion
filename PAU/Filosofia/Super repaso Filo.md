@@ -1,0 +1,320 @@
+# Platón
+## Contenidos
+- Teoría de las ideas 
+	- Dualismo ontológico, mundo sensible (Cosas materiales, Temp, dev, part) y mundo inteligible (Las Ideas, Eterno, Inv, universal)
+	- Relación copia y modelo
+	- Demiurgo
+	- Las ideas son jerárquicas (Bien)
+- Teoría del conocimiento
+	- Conocimiento sensible (Conjetura, creencia)
+	- Conocimiento inteligible (Inteligencia discursiva e intuitiva)
+	- Reminiscencia (Innatismo de las Ideas y el alma)
+	- Ciencia: Matemáticas y dialéctica
+		- Una con supuestos indiscutibles (Deductivo)
+		- Matemáticas como saber preparatorio
+- Concepción atropológica
+	- Dualismo antropológico: unión accidental entre cuerpo y alma, cualitativamente diferentes, cuerpo como prisión del alma
+	- Alma tripartita
+		- Racional
+		- Irascible
+		- Concupiscible
+- Ética
+	- Desarrollo de las virtudes que controlen el alma
+		- Sabiduría
+		- Fortaleza
+		- Moderación
+	- Imagen del carro tirado por caballos: La razón debe controlar las pasiones y deseos
+- Política
+	- Clasificación: Tiranía, democracia, Oligarquía, Timocracia, Aristocracia
+	- Critica a la democracia: Masas ignorantes sin preparación
+	- Ciudad ideal (Idealista)
+		- Sofocracia
+		- Gobernados por los humanos con prevalencia del alma racional
+		- División social
+			- Productores
+			- Militares (No prop.)
+			- Gobernantes (No prop.)
+		- Principio de especialización funcional: Predomina el interés general
+## Texto
+El presente fragmento pertenece a _La República_, obra escrita por Platón, filósofo griego de los siglos V y IV a.C. y figura central de la filosofía antigua. La obra adopta la estructura del diálogo, en donde diversos interlocutores debaten sobre diferentes temas filosóficos. _La República_ es un texto de capital importancia en la filosofía de Platón donde se exponen sus principales teorías: desde la ontología y la epistemología 
+hasta la ética y la política. Platón fue fuertemente influido por su maestro Sócrates y se convertiría en maestro de Aristóteles.
+# Aristóteles
+## Contenidos
+- Metafísica:
+	- Hilemorfismo
+		- La realidad se compone de sustancias
+			- Materia
+			- Forma
+				- Forma esencial
+				- Forma accidental
+	- Potencia y acto
+		- Potencia: Lo que puede ser, pero no tiene por
+		- Acto: Potencialidad actualizada
+	- Cambios:
+		- Cambio esencial
+		- Cambio accidental
+			- Cualitativo
+			- Cuantitativo
+			- Local
+		- Según la causa:
+			- Natural
+			- Artificial
+		- Causas del cambio
+			- Causa material
+			- Causa formal
+			- Causa eficiente
+			- Causa Final
+	- Concepción teleológica (Finalidad)
+		- Artificiales: Lo que buscaba la causa eficiente
+		- Naturales: El fin es inherente a su sustancia, por su forma esencial. Autorrealización
+- Física:
+	- Estudia la naturaleza
+	- Cosmología 
+		- Zona terrestre (Todos los cambios)
+		- Zona celeste (Cambio local)
+		- Fuera: Motor inmóvil
+- Teoría del conocimiento
+	- Conocimiento sensible
+	- Conocimiento racional (Abstracción)
+	- Empirismo (Tabula rasa)
+- Ética
+	- El final es ser feliz, las acciones son un medio para este fin último, autorrealización. La potencia del ser humano es vivir de acuerdo a su potencia racional
+	- Ser humano es racional (Conjunto inseparable de cuerpo y alma)
+		- Diferencia cuantitativa
+		- Vegetativa
+		- Sensitiva
+		- Racional
+	- Virtudes
+		- Punto medio entre dos extremos viciosos por exceso y por defecto
+		- Constituyen nuestro carácter por medio de la costumbre
+		- El ser humano no es bueno o malo por naturaleza sino por sus hábitos
+- Política
+	- El ser humano es social por naturaleza, no somos autosuficientes y tenemos la capacidad del lenguaje y la palabra, debemos ser seres sociales
+	- La comunidad es condición necesaria para alcanzar la felicidad, método genealógico para entender la ciudad
+	- Tres formas
+		- Familia (uniones naturales, necesidades básicas)
+		- Aldea (Conjunto de familias, necesidades no esenciales)
+		- Polis (La más importante, función militar, económica y moral)
+	- Formas de gobierno
+		- Según número de gente
+		- Según recto o desviado
+		- Democracia es desviado, la mayoría de pobres gobierna en su interés
+	- República de la clase media
+		- Mayoría de clase media
+		- Libre de los defectos de los ricos y los pobres (Debe tener un caracter elitista)
+## Texto
+El presente fragmento pertenece a _Política_, obra escrita por Aristóteles, filósofo griego del siglo IV a.C., alumno de Platón y figura central de la filosofía antigua. La obra es un texto de capital importancia en la filosofía de Aristóteles, donde la temática gira en torno a la vida del hombre en sociedad y la organización política de la sociedad.
+# Tomás de Aquino
+## Contenidos
+- Razón-fe
+	- Teología como ciencia
+	- Se puede acceder a la verdad por:
+		- Razón
+		- Fe
+	- Tipos de verdades
+		- Naturales (Razón)
+		- Artículos de fe (fe)
+		- Preámbulos de la fe (Razón y fe)
+	- Rechazo a la teoría de la doble verdad de los averroístas latinos (La razón y la fe provienen de Dios)
+- Existencia de Dios
+	- Necesidad
+		- Evidentes
+		- No evidentes
+		- Dios es evidente en sí mismo pero no para el ser humano
+	- Posibilidad
+		- Demostración
+			- Propter Quid (De la causa a los efectos)
+			- Quia (De los efectos a la causa) Es el que usa para demostrar a Dios
+	- Demostración
+		- Estructura
+			- Se parte de un fenómeno
+			- Principio de causalidad
+			- Imposibilidad indefinido
+			- Conclusión
+		- Vías
+			- Motor inmóvil
+			- Primera causa eficiente
+			- Ser necesario (Su naturaleza implica existencia)
+			- Ser Perfecto
+			- Ser inteligente
+- Ética
+	- Influenciada por Aristóteles (Perfil intelectualista)
+	- El fin último es la felicidad que radica en la contemplación de Dios
+	- Solo tras la muerte es capaz de verdaderamente conocer a Dios
+	- La ley moral se fundamenta en la naturaleza humana
+		- Ley moral
+		- Deducida de la ley natural
+		- Deducida de la ley divina
+	- El hombre es ser social por naturaleza
+	- Fragilidad del hombre
+	- Capacidad lingüística
+	- Gobierno para el bien común
+	- La ley positiva debe estar fundamentada en la natural, si no es así, se justifica la desobediencia civil
+# Descartes
+## Contenidos
+- Método cartesiano
+	- Unificar todos los saberes humanos
+	- Debe fundamentarse en la razón (Matemáticas)
+	- Esta es igual para todos, el problema es el método
+	- Este método debe seguir reglas fáciles y ciertas
+		- Evidencia (Claro y distinto)
+		- Análisis (Simples mediante la intuición)
+		- Síntesis (Complejo por deducción)
+		- Enumeración
+	- Duda metódica (Buscar conocimiento libre de toda duda)
+		- Metódica
+		- Provisional (Un medio que no un fin)
+		- General
+			- De los conocimientos de los sentidos
+			- De los propios vivencias (Sueños y vigilia)
+			- De los propios razonamientos
+		- Se llega al cogito (Pienso, luego existo), la realidad pensante
+		- Supera el escepticismo
+		- Usara el cogito para fundamentar su sistema filosófico
+- Metafísica
+	- Analiza la actividad pensante, que consiste en manejar ideas
+		- Ficticias
+		- Adventicias
+		- Innatas (Sin correlato con la realidad)
+	- Partiendo de la idea innata de perfección demuestra a Dios
+		- La limitación de la naturaleza humana
+		- Argumento ontológico (La idea del ser más perfecto implica su existencia)
+	- Dios es un ser bondadoso y garante de la realidad físico-material
+	- A partir del hecho de la existencia de Dios Descartes basa su metafísica en los conceptos de sustancia, atributo y modo
+		- Sustancia: Cada uno de los sectores ontológicos
+		- Atributo: Su esencia y naturaleza
+		- Modo: Como se manifiesta
+	- Tres sustancias
+		- Res cogitans
+			- Pensamiento, la consciencia
+			- Dudar, razonar, juzgar
+		- Res extensa
+			- La extensión
+			- Cualidades matematizables (Figura y movimiento)
+			- Cualidades secundarias (Subjetivas)
+		- Res infinita
+			- Perfección
+			- Manifiesta con la suprema bondad, omnipotencia
+			- Existe en sí y por sí
+- Dualismo
+	- Concepción dualista, alma y cuerpo
+	- Son diferentes, pero interactúan mediante la glándula pineal
+## Texto
+El presente fragmento pertenece a _Discurso del método_, obra escrita por René Descartes, filósofo racionalista del siglo XVII, considerado inaugurador de una etapa, la filosofía moderna, defendiendo la autonomía de la razón en la búsqueda de la verdad. La obra es un texto de capital importancia en la filosofía de Descartes, donde expone su método para conducir la razón y así hallar verdades indiscutibles.
+# Hume
+## Contenidos
+- Teoría del conocimiento
+	- Elementos del conocimiento (Percepciones)
+		- Impresiones (Provienen de la experiencia externa e interna)
+		- Ideas
+	- Principios
+		- Principio de la copia (No hay ideas innatas, siendo la impresión el criterio de verdad)
+		- Asociación automática de ideas
+			- De manera arbitraria crea ideas ficticias
+			- Principio de semejanza
+			- Proximidad espacio-temporal
+			- Causalidad
+	- Juicios
+		- Relaciones entre ideas (Sujeto está incluido en el predicado, no se pueden negar)
+		- Cuestiones de hecho (No necesarios, amplían contenido, se limita a probabilidad y verosimilitud)
+	- Principio de causalidad (Nexos causales)
+		- Principio de la copia, no hay experiencia empírica que confirmen los nexos causales
+		- Conocemos que hay proximidad entre hechos, prioridad temporal del hecho causa y se repite constantemente el efecto
+		- Está fundamentada en el hábito y la costumbre, suponiendo que la naturaleza actuará de manera uniforme
+		- Nos ayuda a interpretar el mundo, pero no es conocimiento válido, solamente una creencia
+			- Un conocimiento no demostrable, pero bien fundamentado
+			- Se puede concebir que no salga el sol aunque sea difícil de creer
+- Metafísica
+	- Concepto de sustancia
+	- Principio de la copia, no hay base empírica para afirmar la existencia de la sustancia
+		- Material: Las ideas son particulares, los conceptos generales o ideas son una generalización procedente de la experiencia a las que asociamos un término lingüístico, pues solo es una colección de impresiones que aparecen repetidas de manera reiterada en cosas particulares, por la asociación automática de ideas por el principio de semejanza.
+		- Espiritual: No existe un alma al que podamos anclar la identidad personal o "yo". Esta identidad no es más que la memoria de una sucesión de impresiones que pasan en nuestro interior. Por tanto, el "yo" no es una impresión concreta, sino el sujeto de las impresiones. Está en constante cambio
+		- Dios: Dios no es más que un ser en el que proyectamos nuestras cualidades positivas en su máximo grado
+- Ética
+	- Emotivismo moral
+	- Crítica racionalismo moral
+		- La razón tiene la capacidad de describir, pero no de prescribir
+	- Sentimientos (Una acción es buena o mala según el sentimiento que produzca, surgen de la empatía)
+	- Una acción es buena o mala si provoca placer o dolor al mayor número de personas
+	- Sentimientos innatos pero hay que potenciarlos
+## Texto
+El presente fragmento pertenece a _Compendio del tratado sobre la naturaleza humana_, obra escrita por David Hume, filósofo empirista del siglo XVII, siendo una figura central de la filosofía moderna, defendiendo la experiencia como base del conocimiento humano. La obra es un texto de capital importancia en la filosofía de Hume, donde reescribe una de sus obras anteriores de manera más clara y accesible, tratando su teoría del conocimiento, su crítica a la metafísica racionalista y su ética.
+# Marx
+## Contenidos
+- Materialismo histórico
+	- Lo aplica a la historia de la humanidad
+	- Los cambios sociales dependen de los cambios en la base de la estructura económica
+	- El trabajo es el núcleo de su concepción antropológica
+	- La historia es la sucesión de sociedades ligadas cada una a una infraestructura distinta
+	- Infraestructura/Modo de producción
+		- Fuerzas productivas
+		- Relaciones de producción
+	- Relaciones de propiedad (Propietario de los medios de producción, explotador/explotado o colaboración recíproca)
+		- Permiten al capitalista adueñarse de los medios de producción de manera legítima, plusvalía
+	- Sociedades de clases (Antagónicas)
+	- La transición entre épocas se da cuando hay una contradicción entre las fuerzas productivas y las relaciones de producción
+		- Periodo de revolución que dinamita la infraestructura vigente
+	- Con la llegada de la sociedad comunista sin antagonismo social llegará la historia. Lo anterior es prehistoria
+- Estructura económica y superestructura
+	- Infraestructura...
+	- Superestructura
+		- Sistema política
+		- Jurídico
+		- Cultural
+			- La ideología son redes de ficciones que legitiman el modelo existente.
+			- La clase explotadora controla los medios de difusión cultural
+			- Busca perpetuar el modelo existente
+	- Existe un condicionamiento entre infra y superestructura, siendo esta un reflejo de la organización económica
+		- Cambio en Infraestructura cambia la Superestructura
+- Alienación
+	- El robo de lo que es intrínsecamente propio
+	- Lo utiliza para referirse a la deshumanización de la clase social explotada
+		- Laboral
+			- El S.H se siente alienado respecto al producto de su trabajo, en lugar de humanizarse es cosificado
+			- Apropiación indebida de la plusvalía
+			- El trabajo resulta extraño e inhumano
+		- Social
+			- Se ve como parte de una clase social
+		- Jurídica y política
+			- Las leyes e instituciones son algo ajeno y extraño
+		- Religiosa
+			- Inventarla como consuelo ante la pésima situación social
+	- Reivindica la dignidad humana y pretende devolver su dimensión humanista al trabajo mediante la llegada de la sociedad comunista
+	- Hasta el momento los filósofos han interpretado el mundo, y de lo que se trata es de transformarlo
+## Texto
+El presente fragmento pertenece a _Contribución a la crítica de la economía política_, obra escrita por Karl Marx, filósofo y economista alemán del siglo XIX, siendo una figura central de la filosofía contemporánea. Pese a ser la obra de temática primordialmente económica, el prólogo contiene una exposición resumida de las tesis principales del materialismo histórico que defendía, siendo un eje fundamental de su filosofía.
+# Nietzsche
+## Contenidos
+- Crítica a la cultura accidental (Filosofía del martillo)
+	- Metafísica racionalista
+		- La división de la realidad es un error, sublimándonos en realidades inexistentes
+		- Platón es un cobarde frente a la realidad
+	- Ciencia
+		- La naturaleza es muda
+		- Perspectivismo
+		- Las leyes naturales son invenciones humanas para sentirnos más cómodos frente a una realidad hostil
+	- Religión
+		- Principalmente el cristianismo por ser la base de la cultura occidental
+			- Nace de la debilidad e impotencia
+			- Metafísica cristiana (Platonismo para el pueblo)
+	- Moral cristiana y tradicional
+		- Transmutación de los valores, de la de señores a la de esclavos
+		- Busca un fundamento divino a la moral, la cual es humana
+- Superhombre
+	- Método genealógico
+	- Transmutación de los valores
+		- Moral de señores (Afirman la vida, jerárquicos)
+		- Moral de esclavos (De los débiles, antijerárquica)
+		- Rebelión de los esclavos
+	- Superhombre (Superación del ser humano)
+		- Conoce su terrenalidad y finitud, rechaza ideas trascendentes
+		- Autonomía moral (Más allá)
+		- Individualismo
+		- Acepta la muerte de Dios, el fin del idealismo perdido
+			- Eta nihilismo activo
+	- Tres transformaciones
+		- Camello (Tú debes) Hombre tradicional
+		- León (Yo quiero) Aniquila a Dios
+		- Niño (Sí a la vida) Voluntad de poder
+	- Nueva transmutación de los valores
+## Texto
