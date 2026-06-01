@@ -43,8 +43,8 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 - Metafísica:
 	- Hilemorfismo
 		- La realidad se compone de sustancias
-			- Materia
-			- Forma
+			- Materia (Físico)
+			- Forma (Cualidades)
 				- Forma esencial
 				- Forma accidental
 	- Potencia y acto
