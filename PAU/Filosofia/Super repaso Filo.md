@@ -372,4 +372,6 @@ mediante los diálogos de un profeta llama Zaratustra.
 		- Rebelión de las masas
 			- No hay nuevas ideas
 			- Vulgarización en un pensamiento cobarde
-			- 
+			- Crisis para la cultura europea, creencia en la igualdad
+			- Reclama nuevas ideas y no creencias
+			- Las ideas se tienen mientras que las creencias se tienen
