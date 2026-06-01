@@ -356,3 +356,12 @@ mediante los diálogos de un profeta llama Zaratustra.
 		- El futuro guía el presente
 	- Masas
 		- Critica homogeneidad
+		- Dos tipos de personas en cada sociedad
+			- Hombre-masa
+				- Sin iniciativa
+				- Sin individualidad
+				- Sin voluntad (Corto alcance)
+				- Sin obligaciones
+				- Desligado de la historia
+			- Hombre-selecto
+				- 
