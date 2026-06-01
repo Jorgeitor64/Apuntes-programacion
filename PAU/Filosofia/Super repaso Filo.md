@@ -57,7 +57,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 			- Cuantitativo
 			- Local
 		- Según la causa:
-			- Natural
+			- Natural (Sin agente externo)
 			- Artificial
 		- Causas que intervienen en el cambio
 			- Causa material
@@ -69,7 +69,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 		- Naturales: El fin es inherente a su sustancia, por su forma esencial. Autorrealización
 - Física:
 	- Estudia la naturaleza
-	- Cosmología 
+	- Cosmología (Cebolla)
 		- Zona terrestre (Todos los cambios)
 		- Zona celeste (Cambio local)
 		- Fuera: Motor inmóvil
