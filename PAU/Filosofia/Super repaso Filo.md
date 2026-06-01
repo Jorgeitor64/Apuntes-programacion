@@ -315,6 +315,6 @@ El presente fragmento pertenece a _Contribución a la crítica de la economía p
 	- Tres transformaciones
 		- Camello (Tú debes) Hombre tradicional
 		- León (Yo quiero) Aniquila a Dios
-		- Niño (Sí a la vida) Voluntad de poder
+		- Niño (Sí a la vida) Voluntad de poder, carácter de aventura de la experiencia humana
 	- Nueva transmutación de los valores
 ## Texto
