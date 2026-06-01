@@ -47,7 +47,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 			- Forma (Cualidades)
 				- Forma esencial
 				- Forma accidental
-	- Potencia y acto
+	- Potencia y acto (Todas las sustancias experimentan cambios)
 		- Potencia: Lo que puede ser, pero no tiene por
 		- Acto: Potencialidad actualizada
 	- Cambios:
@@ -59,7 +59,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 		- Según la causa:
 			- Natural
 			- Artificial
-		- Causas del cambio
+		- Causas que intervienen en el cambio
 			- Causa material
 			- Causa formal
 			- Causa eficiente
