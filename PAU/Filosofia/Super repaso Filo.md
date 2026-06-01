@@ -376,4 +376,4 @@ mediante los diálogos de un profeta llama Zaratustra.
 			- Reclama nuevas ideas y no creencias
 			- Las ideas se tienen mientras que en las creencias se está
 ## Texto
-El presente fragmento pertenece a _¿Qué es filosofía?_, obra escrita por el filósofo español del siglo XX José Ortega y Gasset, siendo una de las figuras más importantes de la filosofía española. Es una obra de capital importancia en la filosofía del autor, donde expone sus tesis sobre el raciovitalismo
+El presente fragmento pertenece a _¿Qué es filosofía?_, obra escrita por el filósofo español del siglo XX José Ortega y Gasset, siendo una de las figuras más importantes de la filosofía española. Es una obra de capital importancia en la filosofía del autor, donde expone sus tesis sobre la razón vital y los atributos de la vida
