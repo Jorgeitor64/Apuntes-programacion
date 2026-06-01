@@ -258,7 +258,7 @@ El presente fragmento pertenece a _Compendio del tratado sobre la naturaleza hum
 - Estructura económica y superestructura
 	- Infraestructura...
 	- Superestructura
-		- Sistema política
+		- Sistema político
 		- Jurídico
 		- Cultural
 			- La ideología son redes de ficciones que legitiman el modelo existente.
