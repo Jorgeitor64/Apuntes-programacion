@@ -322,4 +322,7 @@ El presente fragmento pertenece a _Así habló Zaratustra_, obra escrita por el 
 mediante los diálogos de un profeta llama Zaratustra.
 # Ortega y Gasset
 ## Contenidos
-- 
+- Teorías fundamentales
+	- Perspectivismo
+		- Todo conocimiento está anclado a un punto de vista, no existe el conocimiento universal
+		- Yo soy yo y mi c
