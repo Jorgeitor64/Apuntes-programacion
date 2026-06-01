@@ -340,4 +340,7 @@ mediante los diálogos de un profeta llama Zaratustra.
 			- Circunstancia (Todo lo que afecta al sujeto)
 			- Vivir es ser arrojado a la existencia sin desearlo, por lo que hay que buscar un quehacer
 			- La vida es una decisión personal, condenados a ser libres y condicionados por nuestra circunstancia
-			- Estas decisiones están afectadas por la capacidad de futurición del ser humano
+			- Estas decisiones están afectadas por la capacidad de futurición del ser humano, la vida es proyecto
+	- Razón histórica
+		- El hombre no tiene naturaleza sino historia
+		- La razón pura es un fracaso en las ciencias humanas 
