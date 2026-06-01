@@ -374,4 +374,6 @@ mediante los diálogos de un profeta llama Zaratustra.
 			- Vulgarización en un pensamiento cobarde
 			- Crisis para la cultura europea, creencia en la igualdad
 			- Reclama nuevas ideas y no creencias
-			- Las ideas se tienen mientras que las creencias se tienen
+			- Las ideas se tienen mientras que en las creencias se está
+## Texto
+El presente fragmento pertenece a _Así habló Zaratustra_, obra escrita por el filósofo y filólogo del siglo XIX Friedrich Nietzsche, siendo una figura central de la filosofía contemporánea. Es una obra de capital importancia en la filosofía del autor, donde expone sus tesis sobre el superhombre, la muerte de Dios o la voluntad de poder 
