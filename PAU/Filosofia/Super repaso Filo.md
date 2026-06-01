@@ -328,4 +328,6 @@ mediante los diálogos de un profeta llama Zaratustra.
 		- Yo soy yo y mi circunstancia
 		- La perspectiva individual varía entre individuos, pudiendo ser complementada con las perspectivas del resto de personas
 	- Raciovitalismo
-		- 
+		- Es la coexistencia de un yo con un mundo
+			- La filosofía es un saber teórico que busca ofrecer una concepción racional a todo lo existente partiendo de un dato radical
+				- Realismo: Dato radical, existencia incuestionbale de la
