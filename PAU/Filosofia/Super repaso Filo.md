@@ -330,4 +330,7 @@ mediante los diálogos de un profeta llama Zaratustra.
 	- Raciovitalismo
 		- Es la coexistencia de un yo con un mundo
 			- La filosofía es un saber teórico que busca ofrecer una concepción racional a todo lo existente partiendo de un dato radical
-				- Realismo: Dato radical, existencia incuestionbale de la
+				- Realismo: Dato radical, existencia incuestionable de las cosas
+				- Idealismo: Existencia incuestionable del sujeto pensante
+			- Es un error reducir la realidad a representaciones mentales del sujeto
+			- Ser indigente, necesita del mundo para existir
