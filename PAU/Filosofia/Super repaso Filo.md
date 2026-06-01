@@ -338,4 +338,5 @@ mediante los diálogos de un profeta llama Zaratustra.
 		- Atributos de la vida
 			- Autoconsciencia
 			- Circunstancia (Todo lo que afecta al sujeto)
-			- 
+			- Vivir es ser arrojado a la existencia sin desearlo, por lo que hay que buscar un quehacer
+			- La vida es una decisión personal, condenados a ser libres y condicionados por nuestra circunstancia
