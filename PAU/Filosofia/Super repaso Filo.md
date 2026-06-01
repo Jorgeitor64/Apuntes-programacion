@@ -351,4 +351,5 @@ mediante los diálogos de un profeta llama Zaratustra.
 		- Coexisten tres generaciones
 			- Son contemporáneas
 			- No son coetáneas
-		- Gracias a esto ocurren inovaciones 
+		- Gracias a esto ocurren innovaciones en la historia, las generaciones polémicas se rebelan contra lo recibido y hacen posible la innovación
+		- Cada generación tiene su misión propia
