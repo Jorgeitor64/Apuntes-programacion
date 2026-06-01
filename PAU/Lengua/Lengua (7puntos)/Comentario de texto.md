@@ -7,7 +7,6 @@
 - Extraer ideas principales
 ## Comentario
 - Decir si es un artículo de opinión/editorial, presentando al periódico o autor
-- Pequeño resumen
 - Características
 	- Tipología textual (Argumentación/Narración/Exposición)
 	- Tiene progresión temática que dota de cohesión y coherencia al texto
