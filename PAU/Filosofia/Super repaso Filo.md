@@ -101,7 +101,7 @@ hasta la ética y la política. Platón fue fuertemente influido por su maestro 
 		- Democracia es desviado, la mayoría de pobres gobierna en su interés
 	- República de la clase media
 		- Mayoría de clase media
-		- Libre de los defectos de los ricos y los pobres (Debe tener un caracter elitista)
+		- Libre de los defectos de los ricos y los pobres (Debe tener un carácter elitista)
 ## Texto
 El presente fragmento pertenece a _Política_, obra escrita por Aristóteles, filósofo griego del siglo IV a.C., alumno de Platón y figura central de la filosofía antigua. La obra es un texto de capital importancia en la filosofía de Aristóteles, donde la temática gira en torno a la vida del hombre en sociedad y la organización política de la sociedad.
 # Tomás de Aquino
