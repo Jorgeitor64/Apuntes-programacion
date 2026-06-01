@@ -318,3 +318,4 @@ El presente fragmento pertenece a _Contribución a la crítica de la economía p
 		- Niño (Sí a la vida) Voluntad de poder, carácter de aventura de la experiencia humana
 	- Nueva transmutación de los valores
 ## Texto
+El presente fragmento pertenece a _Contribución a la crítica de la economía política_, obra escrita por Karl Marx, filósofo y economista alemán del siglo XIX, siendo una figura central de la filosofía contemporánea. Pese a ser la obra de temática primordialmente económica, el prólogo contiene una exposición resumida de las tesis principales del materialismo histórico que defendía, siendo un eje fundamental de su filosofía.
