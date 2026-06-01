@@ -352,4 +352,7 @@ mediante los diálogos de un profeta llama Zaratustra.
 			- Son contemporáneas
 			- No son coetáneas
 		- Gracias a esto ocurren innovaciones en la historia, las generaciones polémicas se rebelan contra lo recibido y hacen posible la innovación
-		- Cada generación tiene su misión propia
+		- Cada generación tiene su misión propia, las generaciones decisivas determinaran la articulación de épocas históricas
+		- El futuro guía el presente
+	- Masas
+		- Critica homogeneidad
