@@ -344,4 +344,11 @@ mediante los diálogos de un profeta llama Zaratustra.
 	- Razón histórica
 		- El hombre no tiene naturaleza, sino historia
 		- La razón pura es un fracaso en las ciencias humanas, no se puede reducir al hombre a mecanismos físico-matemáticos
-		- Esta razón tiene en cuenta las peculiaridades de la vida humana
+		- Esta razón tiene en cuenta el contexto y las peculiaridades de la vida humana
+- Sociedad
+	- Generaciones (15 años)
+		- Tienen una serie de elementos culturales comunes
+		- Coexisten tres generaciones
+			- Son contemporáneas
+			- No son coetáneas
+		- Gracias a esto ocurren inovaciones 
