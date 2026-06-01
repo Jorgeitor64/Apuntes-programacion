@@ -342,5 +342,6 @@ mediante los diálogos de un profeta llama Zaratustra.
 			- La vida es una decisión personal, condenados a ser libres y condicionados por nuestra circunstancia
 			- Estas decisiones están afectadas por la capacidad de futurición del ser humano, la vida es proyecto
 	- Razón histórica
-		- El hombre no tiene naturaleza sino historia
-		- La razón pura es un fracaso en las ciencias humanas 
+		- El hombre no tiene naturaleza, sino historia
+		- La razón pura es un fracaso en las ciencias humanas, no se puede reducir al hombre a mecanismos físico-matemáticos
+		- Esta razón tiene en cuenta las peculiaridades de la vida humana
