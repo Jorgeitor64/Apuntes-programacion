@@ -311,7 +311,7 @@ El presente fragmento pertenece a _Contribución a la crítica de la economía p
 		- Autonomía moral (Más allá)
 		- Individualismo
 		- Acepta la muerte de Dios, el fin del idealismo perdido
-			- Eta nihilismo activo
+			- Entra en un nihilismo activo
 	- Tres transformaciones
 		- Camello (Tú debes) Hombre tradicional
 		- León (Yo quiero) Aniquila a Dios
