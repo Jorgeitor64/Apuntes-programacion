@@ -325,4 +325,7 @@ mediante los diálogos de un profeta llama Zaratustra.
 - Teorías fundamentales
 	- Perspectivismo
 		- Todo conocimiento está anclado a un punto de vista, no existe el conocimiento universal
-		- Yo soy yo y mi c
+		- Yo soy yo y mi circunstancia
+		- La perspectiva individual varía entre individuos, pudiendo ser complementada con las perspectivas del resto de personas
+	- Raciovitalismo
+		- 
