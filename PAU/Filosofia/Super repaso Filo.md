@@ -236,7 +236,7 @@ El presente fragmento pertenece a _Discurso del método_, obra escrita por René
 		- La razón tiene la capacidad de describir, pero no de prescribir
 	- Sentimientos (Una acción es buena o mala según el sentimiento que produzca, surgen de la empatía)
 	- Una acción es buena o mala si provoca placer o dolor al mayor número de personas
-	- Sentimientos innatos pero hay que potenciarlos
+	- Sentimientos innatos, pero hay que potenciarlos
 ## Texto
 El presente fragmento pertenece a _Compendio del tratado sobre la naturaleza humana_, obra escrita por David Hume, filósofo empirista del siglo XVII, siendo una figura central de la filosofía moderna, defendiendo la experiencia como base del conocimiento humano. La obra es un texto de capital importancia en la filosofía de Hume, donde reescribe una de sus obras anteriores de manera más clara y accesible, tratando su teoría del conocimiento, su crítica a la metafísica racionalista y su ética.
 # Marx
