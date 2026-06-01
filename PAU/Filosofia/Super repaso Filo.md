@@ -364,4 +364,12 @@ mediante los diálogos de un profeta llama Zaratustra.
 				- Sin obligaciones
 				- Desligado de la historia
 			- Hombre-selecto
-				- 
+				- Con iniciativa
+				- Con individualidad
+				- Con voluntad
+				- Con misión, hombre de futuro
+				- Se exige más que los demás
+		- Rebelión de las masas
+			- No hay nuevas ideas
+			- Vulgarización en un pensamiento cobarde
+			- 
